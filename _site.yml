@@ -1,5 +1,10 @@
 name: "bills_website"
 output_dir: "."
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    mathjax: null
 navbar:
   title: "Bill Perry's Website"
   left:
