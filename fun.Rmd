@@ -4,3 +4,6 @@ title: "Fun Stuff"
 ---
 
 This will be fun stuff eventually
+
+![Bill after a cyclecross race](images/wlp_postrace.jpg)
+![Bike after a cyclecross race](images/wlbike.jpg)
