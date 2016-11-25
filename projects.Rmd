@@ -1,0 +1,6 @@
+---
+title: "Current Projects"
+
+---
+
+This will be the projects page

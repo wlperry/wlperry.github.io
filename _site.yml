@@ -7,3 +7,7 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+   - text: "Current Projects"
+      href: projects.html
+    - text: "Fun Stuff"
+      href: fun.html
