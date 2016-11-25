@@ -1,2 +1,2 @@
-# wlperry.github.io
+# personal_site
 Website attempt 2
