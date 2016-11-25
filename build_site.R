@@ -2,7 +2,7 @@
 #This helps avoid confusion if our working directory is 
 #not our site because of other projects we were 
 #working on at the time. 
-setwd("~/Documents/website/")
+setwd("~/Documents/GitHub R Code/wlperry.github.io/")
 
 library(rmarkdown)
 
