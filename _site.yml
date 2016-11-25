@@ -14,6 +14,8 @@ navbar:
       href: about.html
     - text: "Current Projects"
       href: projects.html
+    - text: "R Code"
+      href: r_code_stats.html
     - text: "Fun Stuff"
       href: fun.html
       
