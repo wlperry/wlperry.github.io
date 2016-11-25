@@ -1,6 +1,6 @@
 <br>    
 
-###Welcome to my new webpage made in R. <img align="right" img src="images/perry.jpg" height="300px" width="300px" />
+###Welcome to my new webpage made in R. <img align="right" img src="images/perry.jpg" height="300px" width="200px" />
      
 ####The work we do in the laboratory covers two broad areas of research
 
