@@ -1,0 +1,17 @@
+---
+title: "Test of Tables"
+---
+
+#### Time to see how tables work to organize information in webpages
+
+|  Project 1 	|  Project 2 	|  Project 3 	|
+|:-:	|:-:	|:-:	|
+|  <img src="images/crayfishwlperry.jpg" height="350px" width="350px"> 	|  <img src="images/crayfishwlperry.jpg" height="350px" width="350px"> 	|  <img src="images/crayfishwlperry.jpg" height="350px" width="350px"> 	|
+|   This is an exaple of text in table 1	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
+|   	|   	|   	|
