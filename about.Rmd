@@ -1,5 +1,14 @@
 ---
 title: "About Me"
 ---
+I am an aquatic ecologist working on both chemistry and biology of frewshwaters.
 
-Still trying to learn R
+
+Contact Info:
+Bill Perry
+Department of Biology
+Illinois State University
+Campus Box 4120
+
+(309) 438-8160
+wlperry at ilstu.edu

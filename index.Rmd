@@ -4,11 +4,12 @@ title: "Bill Perry's Website"
 
 ###Welcome to my new webpage.
 
-
-## My laboratory is currently working on two major projects
-### Effects of watershed management on stream water quality
-The first project deals with the ecology and biogeochemistry of agricultural streams. We are currently working with The Nature Conservancy to examine the effects of watershed management practices and wetlands on downstream water quality. This work is being conducted in headwater streams of the Mackinaw River east of Illinois State University.
-
-
 ### Crayfish ecology
-The second project in the laboratory deals with invasive species ecology. We are currently focusing on the invasions dynamics of the rusty crayfish, Orconectes rusticus, in streams. We are assessing the role of flow in mediating invasion dynamics. Another aspect of this research is examining the role of hybridization in streams using microsatellite markers developed in collaboration with David Lodge and Jeff Feder at the University of Notre Dame.
+One of my passions is invasive species ecology with a focus on crayfish. We are currently focusing on the invasions dynamics of the rusty crayfish, *Orconectes rusticus*, in streams. We are assessing the role of flow in mediating invasion dynamics. Another aspect of this research is examining the role of hybridization in streams using microsatellite markers we are still working on developing.
+
+### Effects of watershed management on stream water quality
+Another major focus of the laboratory is studying the ecology and biogeochemistry of agricultural streams. We are currently working with The Nature Conservancy to examine the effects of watershed management practices and wetlands on downstream water quality. This work is being conducted in headwater streams of the Mackinaw River east of Illinois State University. We are also working on several other projects dealing with long term data and cover crops in agricultural streams.
+
+
+
+
