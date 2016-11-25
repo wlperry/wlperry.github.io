@@ -2,7 +2,7 @@
 title: "Current Projects"
 
 ---
-<img style="float: right;" src="images/crayfishwlperry.jpg">
+ <img align="right" img src="images/crayfishwlperry.jpg" height="200px" width="200px" />
 ##Crayfish Invasion Biology
 
 As an aquatic biologist, I am interested in the factors affecting the structure and function of aquatic ecosystems with an emphasis on the effect of introduced species. Heavy commercial and recreational use of lakes and streams renders these systems subject to increasing numbers of introduced species both from other continents and from geographically distinct areas within North America. The introduction of exotic species introduced from other continents has received extensive attention from the media and government agencies. However, the homogenization of the native biota of the United States can have similar impacts on receiving ecosystems, but has received little attention. The United States has the highest biodiversity of freshwater mussels, crayfishes and fishes in the world. The introduction of exotic species is one of the major threats to this extensive biodiversity. I am currently studying the invasion of the rusty crayfish (Orconectes rusticus) in northern Wisconsin and the local extinction of O. propinquus and O. virilis through ecological factors (competition and predation) and hybridization/introgression. I am also interested in many other aspects of aquatic biology including: herbivory, primary and secondary production, effects of pollution and habitat degradation, and the effects of top - down versus bottom-up control of food webs. If you have any question please email me or stop in the lab (416/417 Science Laboratory Building).
