@@ -2,12 +2,12 @@
 title: "Bill Perry's Website"
 ---
 
-###Welcome to my new webpage.
+###Welcome to my new webpage made in R. <img align="right" img src="images/perry.jpg" height="400px" width="300px" />
 
-### Crayfish ecology
-One of my passions is invasive species ecology with a focus on crayfish. We are currently focusing on the invasions dynamics of the rusty crayfish, *Orconectes rusticus*, in streams. We are assessing the role of flow in mediating invasion dynamics. Another aspect of this research is examining the role of hybridization in streams using microsatellite markers we are still working on developing.
+#### Crayfish ecology
+One of my passions is invasive species ecology with a focus on crayfish. We are currently focusing on the invasions dynamics of the rusty crayfish, *Orconectes rusticus*, in streams. We are assessing the role of flow as a force mediating invasion speed and success. Another aspect of this research is examining the role of hybridization in streams using microsatellite markers we are still working on developing.
 
-### Effects of watershed management on stream water quality
+#### Effects of watershed management on stream water quality
 Another major focus of the laboratory is studying the ecology and biogeochemistry of agricultural streams. We are currently working with The Nature Conservancy to examine the effects of watershed management practices and wetlands on downstream water quality. This work is being conducted in headwater streams of the Mackinaw River east of Illinois State University. We are also working on several other projects dealing with long term data and cover crops in agricultural streams.
 
 
