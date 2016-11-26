@@ -1,11 +1,10 @@
 ---
 title: "R Code and Statistics"
-author: "Bill Perry"
-date: "11/25/2016"
-output: html_document
----
 
-[a relative link](LTM_Profile.html)
+output:
+  html_document:
+    css: perrycustom.css
+---
 
 
 [r code example](LTM_Profile.html)

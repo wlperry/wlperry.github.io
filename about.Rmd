@@ -1,6 +1,10 @@
 ---
 title: "About Me"
+output:
+  html_document:
+    css: perrycustom.css
 ---
+
 ####I am an aquatic ecologist working on both chemistry and biology of frewshwaters.
 
 ####If you are interested in looking at my publications - they can be found on Research Gate [**(Here)**](https://www.researchgate.net/profile/William_Perry11/contributions) or on google scholar [**(Here)**](https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en)
@@ -8,11 +12,11 @@ title: "About Me"
 ####
 
 -------
-**Contact Infoformation**
+**Contact Infoformation**    
 Bill Perry  
 Department of Biology  
 Illinois State University  
 Campus Box 4120  
 
 309-438-8160  
-wlperry at ilstu.edu  
+wlperry and the rest is  ilstu dot edu  
