@@ -5,6 +5,8 @@ date: "11/25/2016"
 output: html_document
 ---
 
-[a relative link](LTM Profile .nb.html)
+[a relative link](LTM_Profile.html)
 
+
+[r code example](LTM_Profile.html)
 
