@@ -30,7 +30,7 @@ Planning and organizing buoy location.
 <br>
 <img align="center" img src="images/b-11.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
-Working with Ishmail on how to do the deployment
+Working with Ishmael on how to do the deployment
 
 <br>
 <img align="center" img src="images/b-10.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
