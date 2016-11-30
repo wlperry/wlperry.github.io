@@ -1,0 +1,97 @@
+---
+title: "Buoy Deployment"
+author: "Bill Perry"
+date: "11/30/2016"
+output: html_document
+---
+
+---
+output:
+  html_document:
+    css: perrycustom.css
+---
+<br>
+<img align="right" img src="images/b-5.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+Waiting for the second flight to Kigoma at 3AM. 
+<br>
+<img align="right" img src="images/b-2.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+The Shipping container with the buoy in it behind barb wired fences and a guard at TAFIRI.
+<br>
+<img align="right" img src="images/b-1.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+A car to give perspective.
+<br>
+<img align="right" img src="images/b-4.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+The datalogger - trying to get it charged and ready.
+<br>
+<img align="right" img src="images/b-6.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+Planning and organizing buoy location.
+<br>
+<img align="right" img src="images/b-7.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+Planning and organizing buoy location.
+<br>
+<img align="right" img src="images/b-11.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+Working with Ishmail on how to do the deployment
+
+<br>
+<img align="right" img src="images/b-10.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+We managed to get the 400 Kg Buoys out of the container.
+
+<br>
+<img align="right" img src="images/b-9.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+Buoy 1 is called CLEAT 01
+
+<br>
+<img align="right" img src="images/b-12.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+We are lookign at the Mama Benito - the ship that will carry the buoy and anchors to the site.
+
+<br>
+<img align="right" img src="images/b-13.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+We are lookign at the Mama Benito - the ship that will carry the buoy and anchors to the site.
+
+<br>
+<img align="right" img src="images/b-14.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+
+We are talkign to the captian and crew of the Mama Benito.
+
+
+<br>
+<img align="right" img src="images/b-15.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+
+The real African Queen
+
+<br>
+<img align="right" img src="images/b-16.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+
+Fishermen on their way out to fish for the night
+
+<br>
+<img align="right" img src="images/b-18.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+
+<br>
+<img align="right" img src="images/b-19.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+Peter is saying his prayers and is very confident.
+
+<br>
+<img align="right" img src="images/b-17.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+Catherine always optimmistic
+
+
+
+
