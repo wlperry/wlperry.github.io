@@ -18,8 +18,9 @@ navbar:
       href: r_code_stats.html
     - text: "Fun Stuff"
       href: fun.html
-    - text: "2016 Buoy Deployment"
-      href: buoy.html
+    - text: "Buoy Deployment"
+      href: buoy.html    
+   
       
       
       
