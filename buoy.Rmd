@@ -33,6 +33,7 @@ Planning and organizing buoy location.
 Working with Ishmael on how to do the deployment
 
 <br>
+<br>
 <img align="center" img src="images/b-10.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 We managed to get the 400 Kg Buoys out of the container.
