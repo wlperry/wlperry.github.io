@@ -1,13 +1,16 @@
+
 ---
 title: "Fun Stuff"
-
+output:
+  html_document:
+    css: perrycustom.css
 ---
-
+<br>
 ##This will be fun stuff eventually
 
-![Bill after a cyclecross race](/images/wlp_postrace.jpg)
+![Bill after a cyclecross race](images/wlp_postrace.jpg)
 This is what I look like when I have had some fun.
 
-![Bike after a cyclecross race](/images/wlbike.jpg)
+![Bike after a cyclecross race](images/wlbike.jpg)
 
 ##This is what the bike looks like

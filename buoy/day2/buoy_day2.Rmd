@@ -1,0 +1,10 @@
+---
+output:
+  html_document:
+    css: perrycustom.css
+---
+## 30 November - Day 2 - Big Scinece - Cranes, Trucks and Ships.
+<br>
+<img align="center" img src="images/b-5.jpg" height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+Still adding photos now.... 

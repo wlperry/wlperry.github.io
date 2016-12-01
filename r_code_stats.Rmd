@@ -1,6 +1,5 @@
 ---
 title: "R Code and Statistics"
-
 output:
   html_document:
     css: perrycustom.css
