@@ -6,7 +6,15 @@ output:
 
 ## The CLEAT Project - Funded by DANIDA and a collaboration between Aarhus University and TAFIRI.         
 
-The site will provide details and photos of the launch of the buoy on Lake Tanganyika.         
+The site will provide details and photos of the launch of the buoy on Lake Tanganyika. 
+
+We are located at TAFIRI in Kigoma, Tanzania
+<br>
+<img align="center" img src="images/kigoma.png" 
+height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
+<br>
+*Kigoma Tanzania*
+
 
 ## November 29         
 ### Day 1 - The unpacking of the shipping container          
