@@ -4,7 +4,7 @@ output:
     css: perrycustom.css
 ---
 
-## The CLEAT Project - Funded by DANIDA and a collaboration between Aarhus University and TAFIRI.         
+## The CLEAT Project - Funded by DANIDA and a collaboration between Aarhus University, TAFIRI, Illinois State University, and University of Dar es Salaam.         
 
 The site will provide details and photos of the launch of the buoy on Lake Tanganyika. 
 

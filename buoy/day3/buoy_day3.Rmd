@@ -3,7 +3,7 @@ output:
   html_document:
     css: perrycustom.css
 ---
-## 1 December - Day 3 - A Rainy day to get the anchors, datalogger and sensors, and survey the site for launching
+## 1 December - Day 3 - A rainy day to get the anchors, datalogger and sensors, and survey the site for launching
 
 <br>
 <img align="center" img src="images/day_3-28.jpg" 
@@ -98,7 +98,7 @@ height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-The captains chiar... for tomorow
+The captains chair... for tomorow
 
 <br>
 <img align="center" img src="images/day_3-44.jpg" 
@@ -112,7 +112,7 @@ It floats well enough that you can stand on it to remove the hook.
 height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-Just have to move teh ship around
+Just have to move the ship around
 
 <br>
 <img align="center" img src="images/day_3-55.jpg" 

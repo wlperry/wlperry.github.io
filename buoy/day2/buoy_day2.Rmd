@@ -3,7 +3,7 @@ output:
   html_document:
     css: perrycustom.css
 ---
-## 30 November - Day 2 - Big Scinece - Cranes, Trucks and Ships.
+## 30 November - Day 2 - Big Science - Cranes, Trucks and Ships.
 <br>
 <img align="center" img src="images/day2-1.jpg" 
 height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
@@ -20,7 +20,7 @@ Thats not going to fit... The crane is bigger than we expceted but a great drive
 <img align="center" img src="images/day2-3.jpg" 
 height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
-Crane limbo - tryng to get the crane in under the electical wires.
+Crane limbo - tryng to get the crane in under the electrical wires.
 <br> <br>
 
 
@@ -146,19 +146,19 @@ The ships engineer center and crew member right
 <img align="center" img src="images/day2-24.jpg" 
 height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
-The crane truck and old wharehouse at Kigoma Port.
+The crane truck and old warehouse at Kigoma Port.
 
 <br>
 <img align="center" img src="images/day2-25.jpg" 
 height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
-Sorry, I lost all attention to the buoy and my nose took me to this man... The cool of the Maman Benita was making a great fish stew that I wish we could have stayed for.
+Sorry, I lost all attention to the buoy and my nose took me to this man... The cook of the Maman Benita was making a great fish stew that I wish we could have stayed for.
 
 <br>
 <img align="center" img src="images/day2-26.jpg" 
 height="600px" width="600px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
-Well, the video is too large to fit on the site and for now you will have to accept that the buoy was genlty laid down on the dock and all is well.
+Well, the video is too large to fit on the site and for now you will have to accept that the buoy was gently laid down on the dock and all is well.
 
 
 <br>
