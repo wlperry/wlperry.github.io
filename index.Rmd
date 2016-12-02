@@ -12,13 +12,13 @@ output:
 
 1. Bigeochemistry of streams and lakes    
     - Watershed management effects on stream water quality    
-    - Constructed wetland nitrate removal potential    
+    - Nitrate removal of constructed wetlands        
     - Cover crop reduction of nitrate losses    
     - Monitoring water quality in streams entering two drinking water reservoirs    
       
-2. Crayfish ecology and invsions    
+2. Crayfish ecology and invasions    
     - Invasion dynamics in streams
-    - Performance and Behavior in flow
+    - Performance and behavior in flow
     - Morphological differences in response to flow
 
 <script>
