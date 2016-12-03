@@ -32,7 +32,12 @@ height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 
 ##December 2          
 ### Day 4 - Anchors away -          
-[Day 4](buoy/day4/buoy_day4.html)         
+[Day 4](buoy/day4/buoy_day4.html)      
+
+## December 3
+### Day 5 - THe last anchor goes in today - Stay tuned for updates.
+
+
 
 
 
