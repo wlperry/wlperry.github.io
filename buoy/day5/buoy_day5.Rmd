@@ -10,7 +10,7 @@ output:
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-The launch of the second anchor is going to happen - the day is a bit less sunny and calm as the previous day.
+The launch of the second anchor is going to happen - the day is a bit less sunny and calm than the previous day.
 
 
 <br>
@@ -39,7 +39,7 @@ The owner of the ship is here for the last sail with the ship.
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-We are all stading around waiting to see what happens.
+We are all standing around waiting to see what happens.
 
 
 <br>
@@ -70,7 +70,7 @@ Just sitting on the dock of the bay - waiting to see if we can move the 500 kg a
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-The engineer (Bernard), Ishmael, and the captian have a plan.
+The engineer (Bernard), Ishmael, and the captain have a plan.
 
 
 <br>
@@ -209,14 +209,22 @@ Time to add more cable clamps to the buoy. The water was nice and calm at this p
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-The Anchor is on its way.
+The anchor is on its way.
 
 <br>
 <img align="center" img src="images/day_4-32.jpg" 
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-Gettign ready to cut the final ropes to release the anchor. The attachment of the second anchor line was a bit stressful so there are not photos of that.
+Getting ready to cut the final ropes to release the anchor.  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+*The attachment of the second anchor line was a bit stressful so there are no photos of that.*
 
 <br>
 <img align="center" img src="images/day_4-33.jpg" 
@@ -230,7 +238,7 @@ Success and we are off
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-The Mama Bonita heads back to look at the buoy and then home.
+The Maman Benita heads back to look at the buoy and then home.
 
 <br>
 <img align="center" img src="images/day_4-35.jpg" 

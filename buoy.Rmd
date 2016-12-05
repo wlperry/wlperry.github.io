@@ -31,7 +31,7 @@ height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 [Day 3](buoy/day3/buoy_day3.html)         
 
 ##December 2          
-### Day 4 - Anchors away -          
+### Day 4 - Anchors away         
 [Day 4](buoy/day4/buoy_day4.html)      
 
 ## December 3
@@ -43,11 +43,9 @@ height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 [Day 6](buoy/day6/buoy_day6.html)  
 
 ## December 5     
-### Day 7 -            
-Time to talk to the fishermen.      
-[Day 7 Huruma and Sweki talking to the fishermen](buoy/day7bmu/buoy_day7bmu.html)       
-
-Time to put the sensors on the buoy.           
+### Day 7 - Talk to the fishermen and put sensors on the buoy.      
+[Day 7 Huruma and Sweki talking to the fishermen](buoy/day7bmu/buoy_day7bmu.html)             
+     
 [Day 7 putting the gear on the buoy](buoy/day7sensor/buoy_day7sensor.html)     
 
 
