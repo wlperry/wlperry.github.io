@@ -61,7 +61,7 @@ The buoy is a bit bare but that will change. The lake is perfect for doing this 
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-It takes 4 - Prisca, Peter, Kodio (spelling is likley wrong - sorry), and Bill put on the lightening rod and below that the data logger is already on.
+It takes 4 - Prisca, Peter, Kodio (spelling is likley wrong - sorry), and Bill put on the lightening rod, and below that the data logger is already on, in the metal box.
 
 <br>
 <img align="center" img src="images/day_7_sensor-7.jpg" 
@@ -127,7 +127,7 @@ The buoy in its glory.
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-I think Amani wants to be captian of the boat!
+I think Amani wants to be captain of the boat!
 
 
 <br>

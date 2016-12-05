@@ -12,14 +12,14 @@ All of these photos were taken by TAFIRI people as they talked to the fishermen.
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-Huruma showing the fishermen images of teh buoy on his computer.
+Huruma showing the fishermen images of the buoy on his computer.
 
 <br>
 <img align="center" img src="images/day_7_bmu-2.jpg" 
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-Discussing the buoy and what it provides to the fishermen. There will be an app/webpage developed by Rishi Saripalle and Jonathan Mitchell in the School of Information Technology at Illinois State University. Jonathan is an undergraduate there and was able to make the app in only a month or so.
+Discussing the buoy and what it provides to the fishermen. There will be an app/webpage developed by Rishi Saripalle and Jonathan Mitchell in the School of Information Technology at Illinois State University. Jonathan is an undergraduate there and was able to make the app in only a month or so, in both Swahili and English.
 <br>
 <img align="center" img src="images/day_7_bmu-3.jpg" 
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
@@ -31,7 +31,7 @@ Huruma showing more images to fishermen.
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-Time for another fishermen beach and more discussion.
+Time for another fishermen's beach and more discussion.
 <br>
 <img align="center" img src="images/day_7_bmu-5.jpg" 
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
