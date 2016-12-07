@@ -3,7 +3,7 @@ output:
   html_document:
     css: perrycustom.css
 ---
-## 5 December - Day 5 - Time to put sensors on the buoy.
+## 5 December - Day 7 - Time to put sensors on the buoy.
 
 ###This time we had the help of a new person to take photos. Amani was responsible for most of the photos in this page.
 

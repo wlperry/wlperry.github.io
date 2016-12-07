@@ -47,6 +47,16 @@ height="400px" width="400px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 [Day 7 Huruma and Sweki talking to the fishermen](buoy/day7bmu/buoy_day7bmu.html)             
      
 [Day 7 putting the gear on the buoy](buoy/day7sensor/buoy_day7sensor.html)     
+<br>
+
+## December 6 - planning and not a day for photos.     
+
+
+## December 7 - The unveiling of the buoy!     
+### Day 9 - Talk to the fishermen and put sensors on the buoy.      
+[Day 9 Meetings](buoy/day9meet/buoy_day9meet.html)             
+     
+[Day 9 The Ribbon Cutting!!!](buoy/day9boat/buoy_day9boat.html)    
 
 
 
