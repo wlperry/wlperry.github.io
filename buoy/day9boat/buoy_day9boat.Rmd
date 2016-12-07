@@ -21,12 +21,6 @@ height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 
 Everyone is happy to go on the boat.
 
-<br>
-<img align="center" img src="images/buoy_day_9_b-3.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
-
-Everyone is happy to go on the boat.
 
 
 <br>
@@ -97,7 +91,7 @@ The crew worked so hard - they were truly amazing.
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-I dont think the Maman Benita has seen so many people on its deck in a while
+I don't think the Maman Benita has seen so many people on its deck in a while
 
 
 <br>
@@ -139,12 +133,6 @@ height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 I could not thank the crew enough for all of their work.
 
 
-<br>
-<img align="center" img src="images/buoy_day_9_b-18.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
-
-Chatting about the day so far.
 
 
 <br>
@@ -201,12 +189,6 @@ height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 I would say they are relaxed and ready to get to work - tomorrow
 
 
-<br>
-<img align="center" img src="images/buoy_day_9_b-26.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
-
-I would say they are relaxed and ready to get to work - tomorrow
 
 
 <br>
@@ -217,12 +199,6 @@ height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 The engineer Bernard - he keeps this ship running down in the engine room
 
 
-<br>
-<img align="center" img src="images/buoy_day_9_b-28.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
-
-The engineer Bernard - he keeps this ship running down in the engine room
 
 
 
@@ -241,20 +217,7 @@ height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 
 The engineer Bernard and one of the Captains. 
 
-<br>
-<img align="center" img src="images/buoy_day_9_b-31.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
 
-The engineer Bernard and one of the Captains. 
-
-
-<br>
-<img align="center" img src="images/buoy_day_9_b-32.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
-
-The engineer Bernard and one of the Captains. 
 
 <br>
 <img align="center" img src="images/buoy_day_9_b-33.jpg" 
@@ -327,13 +290,6 @@ The ribbon around the buoy
 
 <br>
 <img align="center" img src="images/buoy_day_9_b-42.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
-
-The regional director ready to pull the ribbon
-
-<br>
-<img align="center" img src="images/buoy_day_9_b-43.jpg" 
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
