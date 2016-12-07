@@ -3,7 +3,7 @@ output:
   html_document:
     css: perrycustom.css
 ---
-## 7 December - Day 9 - Meeting as TAFIRI Kigoma to talk about the policy and science going on in and around Lake Tanganyika.      
+## 7 December - Day 9 - 'Official Buoy Launch Event'. Meeting as TAFIRI Kigoma to talk about the policy and science going on in and around Lake Tanganyika.      
 
 ###A great group of people gave presentations on the policy and science as it pertained to Lake Tanganyika.      
 
@@ -194,7 +194,7 @@ Heading out for a group photo and tour of TAFIRI at Kigoma
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-The group photo 
+The group photo begins around the extra donated buoy.. . 
 
 
 <br>
@@ -202,7 +202,7 @@ The group photo
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-The group photo 
+The group photo, gradually people are coming. . . . 
 
 
 <br>
@@ -211,23 +211,6 @@ height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-
 <br>
 
 The group photo 
-
-
-<br>
-<img align="center" img src="images/buoy_day_9_m-27.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
-
-The group photo 
-
-
-<br>
-<img align="center" img src="images/buoy_day_9_m-28.jpg" 
-height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
-<br>
-
-The group photo 
-
 
 <br>
 <img align="center" img src="images/buoy_day_9_m-29.jpg" 
@@ -304,12 +287,12 @@ Huruma talks about what it means for the fishery.
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-A few last minute discussions
+A few discussions about a buoy for Bujumbura.
 
 <br>
 <img align="center" img src="images/buoy_day_9_m-39.jpg" 
 height="500px" width="500px" border="1" style="PADDING-TOP: 5px" style="PADDING-BOTTOM: 5px"/>
 <br>
 
-Charles Lugomela shows us how we should have moved the anchors... he can lift these with one finger.
+Dr. Charles Lugomela from Univeristy of Dar es Salaam shows us how we should have moved the anchors... he can lift these cement blocks with one finger.
 
