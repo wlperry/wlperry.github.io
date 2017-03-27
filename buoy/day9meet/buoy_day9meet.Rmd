@@ -2,6 +2,8 @@
 output:
   html_document:
     css: perrycustom.css
+  pdf_document: default
+  word_document: default
 ---
 ## 7 December - Day 9 - 'Official Buoy Launch Event'. Meeting as TAFIRI Kigoma to talk about the policy and science going on in and around Lake Tanganyika.      
 

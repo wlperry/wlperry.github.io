@@ -1,5 +1,6 @@
 ---
 output:
+  pdf_document: default
   html_document:
     css: perrycustom.css
 ---
