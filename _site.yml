@@ -15,7 +15,7 @@ navbar:
     - text: "Current Projects"
       href: projects.html
     - text: "R Code/Stats"
-      href: https://wlperry.github.io/2017stats/
+      href: https://wlperry.github.io/2017stats/index.html
     - text: "Fun Stuff"
       href: fun.html
     - text: "Buoy Deployment"
