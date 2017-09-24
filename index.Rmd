@@ -21,6 +21,20 @@ output:
     - Performance and behavior in flow
     - Morphological differences in response to flow
     
+ 
+**Open graduate student positions:**
+Our team has two graduate positions open in my laboratory for students interested in conservation of agricultural stream ecosystems. These are funded positions.    
+<br>
+
+1.  Effects of best management pratices and wetlands on agricultural streams          
+      - The student will help with ongoing data collection and analyses    
+      - The student can develop their own project or work on ongoing projectes    
+      
+2.  We are examining the effectiveness of cover crops on water quality at the watershed scale. 
+      - The student will help with ongoing data collection and analyses
+      - The student is welcome to explore new aspects within the bounds of the project of contribute to ongoing analyses
+      
+      
    
 
 <script>
