@@ -14,7 +14,7 @@ navbar:
       href: about.html
     - text: "Current Projects"
       href: projects.html
-    - Text: "New R Page"
+    - text: "New R Page"
       href: https://wlperry.github.io/r_data_stats/index.html
     - text: "R Code/Stats"
       href: https://wlperry.github.io/2017stats/index.html
