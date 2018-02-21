@@ -5,10 +5,7 @@ output: html_document
 
 
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~wlperry/1.embed"></iframe>
+<iframe width="700" height="700" frameborder="0" scrolling="no" src="//plot.ly/~wlperry/1.embed"></iframe>
 
 
-<div>
-    <a href="https://plot.ly/~wlperry/1/?share_key=17hIxCjKhvSA79J9c0ifOo" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~wlperry/1.png?share_key=17hIxCjKhvSA79J9c0ifOo" alt="Plot 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="wlperry:1" sharekey-plotly="17hIxCjKhvSA79J9c0ifOo" src="https://plot.ly/embed.js" async></script>
-</div>
+
