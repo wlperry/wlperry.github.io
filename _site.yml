@@ -17,7 +17,7 @@ navbar:
     - text: "Limno R Page"
       href: https://wlperry.github.io/bioblog/
     - text: "R Code/Stats"
-      href: https://wlperry.github.io/2017stats/index.html
+      href: https://wlperry.github.io/2018_stats/index.html
     - text: "Fun Stuff"
       href: fun.html
     - text: "Buoy Deployment"
