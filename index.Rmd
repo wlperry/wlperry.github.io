@@ -23,16 +23,19 @@ output:
     
  
 **Open graduate student positions:**
-Our team has two graduate positions open in my laboratory for students interested in conservation of agricultural stream ecosystems. These are funded positions.    
+My laboratory is currently working predominately on three areas of research and we may have positions opening soon:    
 <br>
 
-1.  Effects of best management pratices and wetlands on agricultural streams          
-      - The student will help with ongoing data collection and analyses    
-      - The student can develop their own project or work on ongoing projectes    
+1.  Effects of best management pratices and wetlands on agricultural tile drainage and streams.           
+      - Help with ongoing data collection and analyses    
+      - Develop their own project associated with ongoing projectes    
       
-2.  We are examining the effectiveness of cover crops on water quality at the watershed scale. 
-      - The student will help with ongoing data collection and analyses
-      - The student is welcome to explore new aspects within the bounds of the project of contribute to ongoing analyses
+2.  Effectiveness of cover crops on water quality at the watershed scale. 
+      - Help with ongoing data collection and analyses
+      - Explore new aspects within the bounds of the project
+      - Develop new R code to analyze the data
+3.  Understanding sources, timing and fate of microplastics in streams and drinking water reservoirs
+      - This project is currently not funded but undergraduates are welcome to explore projects in this area.
       
       
    
