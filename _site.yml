@@ -4,7 +4,9 @@ output:
   html_document:
     theme: cosmo
     highlight: textmate
-    mathjax: null
+    mathjax: ~
+    lib_dir: site_libs
+    self_contained: no
 navbar:
   title: "Bill Perry's Website"
   left:
