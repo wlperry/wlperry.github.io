@@ -14,8 +14,6 @@ navbar:
       href: about.html
     - text: "Current Projects"
       href: projects.html
-    - text: "Limno R Page"
-      href: https://wlperry.github.io/bioblog/
     - text: "R Code/Stats"
       href: https://wlperry.github.io/2018_stats/index.html
     - text: "Fun Stuff"

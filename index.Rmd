@@ -10,7 +10,7 @@ output:
      
 ## The work we do in the laboratory covers two broad areas of research
 
-1. Bigeochemistry of streams and lakes    
+1. Bigeochemistry of streams, lakes, and tile-drained agricultural fields    
     - Watershed management effects on stream water quality    
     - Nitrate removal of constructed wetlands        
     - Cover crop reduction of nitrate losses    
@@ -23,23 +23,19 @@ output:
     
  
 **Open graduate student positions:**
-My laboratory is currently working predominately on three areas of research and we may have positions opening soon:    
+My laboratory is currently working on one primary project:    
 <br>
 
-1.  Effects of best management pratices and wetlands on agricultural tile drainage and streams.           
-      - Help with ongoing data collection and analyses    
-      - Develop their own project associated with ongoing projectes    
+1.  Role of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:             
+      - Soil quality and nutrient content     
+      - porewater nitrogen concentrations with and without cover crops     
+      - weed diversity and biomass associated with cover crops compared to reference
+      - honeybee use of the cover crop
+      - nutrient loss from tile water 
       
-2.  Effectiveness of cover crops on water quality at the watershed scale. 
-      - Help with ongoing data collection and analyses
-      - Explore new aspects within the bounds of the project
-      - Develop new R code to analyze the data
-3.  Understanding sources, timing and fate of microplastics in streams and drinking water reservoirs
-      - This project is currently not funded but undergraduates are welcome to explore projects in this area.
-      
-      
-   
-
+       
+       
+       
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88373117-3"></script>
 <script>

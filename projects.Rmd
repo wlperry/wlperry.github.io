@@ -19,20 +19,15 @@ output:
 ------
 
 
-#### Role of cover crops in reducing nitrate loss to receiving streams
+## Role of cover crops in reducing nitrate loss to receiving streams
 
 
 --------
 
-#### Monitoring of water quality entering Lake Bloomington and Lake Evergreen for the City of Bloomington.
+## Monitoring of water quality entering Lake Bloomington and Lake Evergreen for the City of Bloomington.
 
 
 
-##Crayfish Invasion Biology
-
-
-
-##Agricultural Stream Ecology
 
 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->

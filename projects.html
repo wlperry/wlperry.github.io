@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -245,18 +245,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -294,9 +282,6 @@ $(document).ready(function () {
   <a href="projects.html">Current Projects</a>
 </li>
 <li>
-  <a href="https://wlperry.github.io/bioblog/">Limno R Page</a>
-</li>
-<li>
   <a href="https://wlperry.github.io/2018_stats/index.html">R Code/Stats</a>
 </li>
 <li>
@@ -331,14 +316,13 @@ $(document).ready(function () {
 <h2>Effects of watershed management on stream water quality</h2>
 <p><img align="left" img src="images/cowstream.jpg" height="200px" width="200px" style="PADDING-RIGHT: 5px" />This project is examining the effect of implemented best management practices on water quality in an experiment stream versus a reference stream. We are currently working with The Nature Conservancy to examine the effects of watershed management practices and wetlands on downstream water quality. This work is being conducted in headwater streams of the Mackinaw River east of Illinois State University. We are also working on several other projects dealing with long term data and cover crops in agricultural streams.</p>
 <hr />
-<div id="role-of-cover-crops-in-reducing-nitrate-loss-to-receiving-streams" class="section level4">
-<h4>Role of cover crops in reducing nitrate loss to receiving streams</h4>
+</div>
+<div id="role-of-cover-crops-in-reducing-nitrate-loss-to-receiving-streams" class="section level2">
+<h2>Role of cover crops in reducing nitrate loss to receiving streams</h2>
 <hr />
 </div>
-<div id="monitoring-of-water-quality-entering-lake-bloomington-and-lake-evergreen-for-the-city-of-bloomington." class="section level4">
-<h4>Monitoring of water quality entering Lake Bloomington and Lake Evergreen for the City of Bloomington.</h4>
-<p>##Crayfish Invasion Biology</p>
-<p>##Agricultural Stream Ecology</p>
+<div id="monitoring-of-water-quality-entering-lake-bloomington-and-lake-evergreen-for-the-city-of-bloomington." class="section level2">
+<h2>Monitoring of water quality entering Lake Bloomington and Lake Evergreen for the City of Bloomington.</h2>
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88373117-3"></script>
 <script>
@@ -348,7 +332,6 @@ $(document).ready(function () {
 
   gtag('config', 'UA-88373117-3');
 </script>
-</div>
 </div>
 
 
@@ -368,6 +351,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 
 </body>
