@@ -1,6 +1,0 @@
----
-title: "Test of Tables"
----
-
-#### Time to see how tables work to organize information in webpages
-
