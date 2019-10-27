@@ -1,5 +1,5 @@
-# personal_site
-Website attempt 2
+This is my personal work website and I am just getting back to it after a long time working on other things. The statistics page will be what I am working on most soon. Bill
+
 
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88373117-3"></script>
