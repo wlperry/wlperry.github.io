@@ -4,40 +4,38 @@ output:
     css: perrycustom.css
 ---
 
-<br>    
+# Welcome to my new webpage.![](images/perry.jpg){align="right" img="" border="2" style="PADDING-TOP: 5px" width="200" height="275"}
 
-# <b>Welcome to my new webpage made in R.</b> <img align="right" img src="images/perry.jpg" height="275px" width="200px" border="1" style="PADDING-TOP: 5px" style="PADDING-LEFT: 5px"/>
-     
 ## The work we do in the laboratory covers two broad areas of research
 
-1. Bigeochemistry of streams, lakes, and tile-drained agricultural fields    
-    - Watershed management effects on stream water quality    
-    - Nitrate removal of constructed wetlands        
-    - Cover crop reduction of nitrate losses    
-    - Monitoring water quality in streams entering two drinking water reservoirs    
-      
-2. Crayfish ecology and invasions    
-    - Invasion dynamics in streams
-    - Performance and behavior in flow
-    - Morphological differences in response to flow
-    
- 
-**Open graduate student positions:**
-My laboratory is currently working on one primary project:    
-<br>
+1.  Bigeochemistry of streams, lakes, and tile-drained agricultural fields
+    -   Watershed management effects on stream water quality
+    -   Nitrate removal of constructed wetlands
+    -   Cover crop reduction of nitrate losses
+    -   Monitoring water quality in streams entering two drinking water reservoirs
+2.  Crayfish ecology and invasions
+    -   Invasion dynamics in streams
+    -   Performance and behavior in flow
+    -   Morphological differences in response to flow
 
-1.  Role of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:             
-      - Soil quality and nutrient content     
-      - porewater nitrogen concentrations with and without cover crops     
-      - weed diversity and biomass associated with cover crops compared to reference
-      - honeybee use of the cover crop
-      - nutrient loss from tile water 
-      
-       
-       
-       
+**Sorry I am not taking graduate students until 2026**
+
+My laboratory is currently working on one primary project:
+
+1.  Role of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:
+    -   Soil quality and nutrient content
+    -   porewater nitrogen concentrations with and without cover crops
+    -   weed diversity and biomass associated with cover crops compared to reference
+    -   honeybee use of the cover crop
+    -   nutrient loss from tile water
+
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
+
+```{=html}
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88373117-3"></script>
+```
+
+```{=html}
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments)};
@@ -45,4 +43,4 @@ My laboratory is currently working on one primary project:
 
   gtag('config', 'UA-88373117-3');
 </script>
-
+```
