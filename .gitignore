@@ -6,4 +6,6 @@
 *
 !docs/
 !.gitignore
+!_quarto.yml
+
 /.quarto/
