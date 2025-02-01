@@ -8,9 +8,10 @@
 *.*
 
 #Only Include these specific directories and subdirectories:
-!docs
-!docs/
+!docs*
+!docs/*
 !.gitignore
 !_quarto.yml
 
 /.quarto/
+.Rproj.user
