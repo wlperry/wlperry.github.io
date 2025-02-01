@@ -3,8 +3,9 @@
 .RData
 .Ruserdata
 
-/.quarto/
-
-*
 !docs/
 !.gitignore
+
+
+
+/.quarto/
