@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "perry_personal_web_page.html",
-    "href": "perry_personal_web_page.html",
-    "title": "perry_personal_web_page",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
     "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "perry_personal_web_page.html#quarto",
-    "href": "perry_personal_web_page.html#quarto",
-    "title": "perry_personal_web_page",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to my new webpage.",
-    "section": "",
-    "text": "Sorry I am not taking graduate students until Fall 2026\n\n\n\n\n\n\n\n\nBigeochemistry of streams, lakes, and tile-drained agricultural fields\n\n\nWatershed management effects on stream water quality\nNitrate removal of constructed wetlands\nCover crop reduction of nitrate losses\nMonitoring water quality in streams entering two drinking water reservoirs\n\n\nCrayfish ecology and invasions\n\n\nInvasion dynamics in streams\nPerformance and behavior in flow\nMorphological differences in response to flow\n\nMy laboratory is currently working on one primary project:\n\nRole of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:\n\n\nSoil quality and nutrient content\nporewater nitrogen concentrations with and without cover crops\nweed diversity and biomass associated with cover crops compared to reference\nhoneybee use of the cover crop\nnutrient loss from tile water\n\nstill updating"
-  },
-  {
-    "objectID": "index.html#the-work-we-do-in-the-laboratory-covers-two-broad-areas-of-research",
-    "href": "index.html#the-work-we-do-in-the-laboratory-covers-two-broad-areas-of-research",
-    "title": "Welcome to my new webpage.",
-    "section": "",
-    "text": "Bigeochemistry of streams, lakes, and tile-drained agricultural fields\n\n\nWatershed management effects on stream water quality\nNitrate removal of constructed wetlands\nCover crop reduction of nitrate losses\nMonitoring water quality in streams entering two drinking water reservoirs\n\n\nCrayfish ecology and invasions\n\n\nInvasion dynamics in streams\nPerformance and behavior in flow\nMorphological differences in response to flow\n\nMy laboratory is currently working on one primary project:\n\nRole of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:\n\n\nSoil quality and nutrient content\nporewater nitrogen concentrations with and without cover crops\nweed diversity and biomass associated with cover crops compared to reference\nhoneybee use of the cover crop\nnutrient loss from tile water\n\nstill updating"
-  },
-  {
-    "objectID": "fun.html",
-    "href": "fun.html",
-    "title": "Fun me",
-    "section": "",
-    "text": "This is what I look like when I have had some fun.\n\n\n\nBike after a cyclecross race"
-  },
-  {
-    "objectID": "fun.html#this-will-be-fun-stuff-eventually",
-    "href": "fun.html#this-will-be-fun-stuff-eventually",
-    "title": "Fun me",
-    "section": "",
-    "text": "This is what I look like when I have had some fun.\n\n\n\nBike after a cyclecross race"
-  },
-  {
-    "objectID": "fun.html#this-is-what-the-bike-looks-like",
-    "href": "fun.html#this-is-what-the-bike-looks-like",
-    "title": "Fun me",
-    "section": "This is what the bike looks like",
-    "text": "This is what the bike looks like"
+    "text": "I am an aquatic ecologist working on both chemistry and biology of frewshwaters.\n\n\nIf you are interested in looking at my publications - they can be found on Research Gate (Here) or on google scholar (Here)\n\nContact Infoformation\nBill Perry\nDepartment of Biology\nIllinois State University\nCampus Box 4120\n309-438-8160\nwlperry and the rest is ilstu dot edu"
   },
   {
     "objectID": "projects.html#crayfish-ecology",
@@ -70,10 +28,38 @@
     "text": "Monitoring of water quality entering Lake Bloomington and Lake Evergreen for the City of Bloomington."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
+    "objectID": "fun.html",
+    "href": "fun.html",
+    "title": "Fun me",
     "section": "",
-    "text": "I am an aquatic ecologist working on both chemistry and biology of frewshwaters.\n\n\nIf you are interested in looking at my publications - they can be found on Research Gate (Here) or on google scholar (Here)\n\nContact Infoformation\nBill Perry\nDepartment of Biology\nIllinois State University\nCampus Box 4120\n309-438-8160\nwlperry and the rest is ilstu dot edu"
+    "text": "This is what I look like when I have had some fun.\n\n\n\nBike after a cyclecross race"
+  },
+  {
+    "objectID": "fun.html#this-will-be-fun-stuff-eventually",
+    "href": "fun.html#this-will-be-fun-stuff-eventually",
+    "title": "Fun me",
+    "section": "",
+    "text": "This is what I look like when I have had some fun.\n\n\n\nBike after a cyclecross race"
+  },
+  {
+    "objectID": "fun.html#this-is-what-the-bike-looks-like",
+    "href": "fun.html#this-is-what-the-bike-looks-like",
+    "title": "Fun me",
+    "section": "This is what the bike looks like",
+    "text": "This is what the bike looks like"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my new webpage.",
+    "section": "",
+    "text": "Sorry I am not taking graduate students until Fall 2026\n\n\n\n\n\n\n\n\nBigeochemistry of streams, lakes, and tile-drained agricultural fields\n\n\nWatershed management effects on stream water quality\nNitrate removal of constructed wetlands\nCover crop reduction of nitrate losses\nMonitoring water quality in streams entering two drinking water reservoirs\n\n\nCrayfish ecology and invasions\n\n\nInvasion dynamics in streams\nPerformance and behavior in flow\nMorphological differences in response to flow\n\nMy laboratory is currently working on one primary project:\n\nRole of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:\n\n\nSoil quality and nutrient content\nporewater nitrogen concentrations with and without cover crops\nweed diversity and biomass associated with cover crops compared to reference\nhoneybee use of the cover crop\nnutrient loss from tile water\n\nstill updating"
+  },
+  {
+    "objectID": "index.html#the-work-we-do-in-the-laboratory-covers-two-broad-areas-of-research",
+    "href": "index.html#the-work-we-do-in-the-laboratory-covers-two-broad-areas-of-research",
+    "title": "Welcome to my new webpage.",
+    "section": "",
+    "text": "Bigeochemistry of streams, lakes, and tile-drained agricultural fields\n\n\nWatershed management effects on stream water quality\nNitrate removal of constructed wetlands\nCover crop reduction of nitrate losses\nMonitoring water quality in streams entering two drinking water reservoirs\n\n\nCrayfish ecology and invasions\n\n\nInvasion dynamics in streams\nPerformance and behavior in flow\nMorphological differences in response to flow\n\nMy laboratory is currently working on one primary project:\n\nRole of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:\n\n\nSoil quality and nutrient content\nporewater nitrogen concentrations with and without cover crops\nweed diversity and biomass associated with cover crops compared to reference\nhoneybee use of the cover crop\nnutrient loss from tile water\n\nstill updating"
   }
 ]
