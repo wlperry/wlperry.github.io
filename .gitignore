@@ -1,11 +1,7 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
-
 *
 !docs/
 !.gitignore
 !_quarto.yml
+
 
 /.quarto/

@@ -5,6 +5,8 @@ format:
     toc-depth: 3
 editor: visual
 ---
+
+```{=html}
 <style>
 .wrap-right {
   float: right;
@@ -12,6 +14,7 @@ editor: visual
   margin-bottom: 20px;
 }
 </style>
+```
 
 # Welcome to my new webpage.
 
@@ -52,3 +55,5 @@ My laboratory is currently working on one primary project:
 -   honeybee use of the cover crop
 
 -   nutrient loss from tile water
+
+still updating
