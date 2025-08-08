@@ -5,29 +5,20 @@ project:
 website:
   title: "Bill Perry's Website"
   navbar:
-    background: primary
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "About"
-        href: about.qmd
-      - text: "Projects"  
-        href: projects.qmd
-      - text: "Fun"
-        href: fun.qmd
-    right:
       - text: "Bill's Homepage"
         href: "https://wlperry.github.io/index.html"
-        target: "_blank"
-      - text: "Biostats"
+      - text: "Biostats Homepage"
         href: "https://wlperry.github.io/umd_biostats/"
-        target: "_blank"
+      - text: "About"
+        href: about.qmd
+  # Optionally, add a footer or other settings here
+
 
 format:
   html:
-    theme: 
-      - flatly
-      - custom.scss
-    toc: true
+    theme: flatly         # You can experiment with other themes (e.g., cosmo, yeti)
+    css: styles.css        # Reference your custom CSS file
+    toc: true              # Enable a table of contents if your pages are long
     toc-title: "On this page"
-    page-layout: full
+    

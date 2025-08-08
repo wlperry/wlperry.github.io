@@ -1,86 +1,59 @@
 ---
-title: "Welcome to Bill Perry's Research Lab"
-page-layout: full
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+editor: visual
 ---
 
 ```{=html}
-<div class="hero-banner">
-  <div class="container">
-    <h1 class="hero-title">Aquatic Ecology Research</h1>
-    <p class="hero-subtitle">Studying freshwater ecosystems, biogeochemistry, and crayfish ecology at University of Minnesota Duluth</p>
-    <div class="hero-buttons">
-      <a href="https://wlperry.github.io/umd_biostats/" target="_blank" class="hero-btn hero-btn-outline">📊 Biostatistics Course</a>
-      <a href="about.qmd" class="hero-btn hero-btn-solid">Learn More About My Research</a>
-    </div>
-  </div>
-</div>
+<style>
+.wrap-right {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+</style>
 ```
 
-::: {.alert .alert-warning}
-**Graduate Student Applications:** I am not currently taking graduate students until Fall 2026.
-:::
+# Welcome to my new webpage.
 
-![Dr. Bill Perry](images/perry.jpg){.wrap-right .profile-img fig-align="right" width="255"}
+**Sorry I am not taking graduate students until Fall 2026**
 
-## Research Overview
+![](images/perry.jpg){.wrap-right fig-align="right" width="255"}
 
-Our laboratory focuses on two interconnected areas of freshwater ecology research that address critical environmental challenges facing aquatic ecosystems today.
+## The work we do in the laboratory covers two broad areas of research
 
-### 1. Biogeochemistry of Freshwater Systems
+1.  Bigeochemistry of streams, lakes, and tile-drained agricultural fields
 
-We investigate the complex chemical and biological processes that govern water quality in streams, lakes, and tile-drained agricultural landscapes. Our current research includes:
+-   Watershed management effects on stream water quality
 
-- **Watershed Management & Water Quality**: Assessing how land management practices influence downstream water chemistry and ecosystem health
-- **Constructed Wetland Performance**: Evaluating the effectiveness of engineered wetlands for nitrate removal from agricultural runoff  
-- **Cover Crop Efficacy**: Quantifying how cover crops reduce nutrient losses from agricultural fields
-- **Reservoir Water Quality Monitoring**: Long-term monitoring of water quality in streams feeding drinking water reservoirs
+-   Nitrate removal of constructed wetlands
 
-### 2. Crayfish Ecology & Invasion Biology
+-   Cover crop reduction of nitrate losses
 
-Our crayfish research examines how native and invasive species interact with their environment and each other:
+-   Monitoring water quality in streams entering two drinking water reservoirs
 
-- **Stream Invasion Dynamics**: Understanding how invasive crayfish species colonize and establish in new watersheds
-- **Flow Performance & Behavior**: Investigating how water flow affects crayfish movement, feeding, and survival
-- **Morphological Adaptations**: Documenting physical changes in crayfish populations in response to different flow regimes
-- **Community Impacts**: Assessing how invasive crayfish affect native species and ecosystem function
+2.  Crayfish ecology and invasions
 
-## Current Primary Project
+-   Invasion dynamics in streams
 
-::: {.research-highlight}
-### Innovative Cover Crop Research
+-   Performance and behavior in flow
 
-We are conducting cutting-edge research on the **role of cover crops in reducing nutrient loss** using a new experimental plot system featuring a novel cash cover crop approach. This comprehensive study examines multiple interconnected aspects:
+-   Morphological differences in response to flow
 
-**Soil & Water Quality**
-- Soil nutrient content and quality assessments
-- Porewater nitrogen concentration monitoring with and without cover crops
-- Tile water nutrient loss quantification
+My laboratory is currently working on one primary project:
 
-**Ecological Interactions**  
-- Weed species diversity and biomass comparisons between cover crop and reference plots
-- Honeybee utilization patterns of cover crop flowers
-- Plant-pollinator interaction networks
+1.  Role of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:
 
-**Agricultural Sustainability**
-- Economic viability of cash cover crops
-- Integration with existing farming practices
-- Long-term sustainability assessments
-:::
+-   Soil quality and nutrient content
 
----
+-   porewater nitrogen concentrations with and without cover crops
 
-## Laboratory Facilities
+-   weed diversity and biomass associated with cover crops compared to reference
 
-Our research is supported by state-of-the-art facilities including water chemistry analysis equipment, greenhouse spaces for controlled experiments, and field monitoring stations throughout the Lake Superior region and upper Midwest watersheds.
+-   honeybee use of the cover crop
 
-## Collaborations
+-   nutrient loss from tile water
 
-We work closely with:
-- The Nature Conservancy on watershed management initiatives  
-- Minnesota Pollution Control Agency
-- Local farmers and agricultural organizations
-- Other University of Minnesota departments and research centers
-
----
-
-*This website is currently being updated with new research findings and project developments. Check back regularly for the latest information about our ongoing work.*
+still updating
