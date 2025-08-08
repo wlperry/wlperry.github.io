@@ -5,6 +5,7 @@ project:
 website:
   title: "Bill Perry's Website"
   navbar:
+    background: primary
     left:
       - text: "Home"
         href: index.qmd
@@ -24,7 +25,9 @@ website:
 
 format:
   html:
-    theme: flatly
-    css: styles.css
+    theme: 
+      - flatly
+      - custom.scss
     toc: true
     toc-title: "On this page"
+    page-layout: full
