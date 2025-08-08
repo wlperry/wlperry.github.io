@@ -4,18 +4,13 @@ project:
 
 website:
   title: "Bill Perry's Website"
-  description: "Aquatic Ecology Research at University of Minnesota Duluth"
-  favicon: images/favicon.ico
-  
   navbar:
-    background: primary
-    search: true
     left:
       - text: "Home"
         href: index.qmd
       - text: "About"
         href: about.qmd
-      - text: "Projects"
+      - text: "Projects"  
         href: projects.qmd
       - text: "Fun"
         href: fun.qmd
@@ -27,24 +22,9 @@ website:
         href: "https://wlperry.github.io/umd_biostats/"
         target: "_blank"
 
-  page-footer:
-    background: dark
-    left: |
-      **Bill Perry**  
-      Department of Biology  
-      University of Minnesota Duluth
-    right: |
-      Contact: wlperry@d.umn.edu  
-      Phone: TBD
-
 format:
   html:
-    theme: 
-      - flatly
-      - styles.css
+    theme: flatly
+    css: styles.css
     toc: true
-    toc-location: right
     toc-title: "On this page"
-    code-fold: true
-    smooth-scroll: true
-    link-external-newwindow: true
