@@ -9,7 +9,7 @@ website:
       - text: "Bill's Homepage"
         href: "https://wlperry.github.io/index.html"
       - text: "Biostats Homepage"
-        href: "https://wlperry.github.io/web_stats/index.html"
+        href: "https://wlperry.github.io/umd_biostats/"
       - text: "About"
         href: about.qmd
   # Optionally, add a footer or other settings here
