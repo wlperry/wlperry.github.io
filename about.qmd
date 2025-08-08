@@ -1,5 +1,6 @@
 ---
-title: "About Dr. Bill Perry"
+title: "About me"
+author: "Bill Perry"
 format: 
   html:
     toc: true
@@ -7,57 +8,17 @@ format:
 editor: visual
 ---
 
-## Personal Background
+#### I am an aquatic ecologist working on both chemistry and biology of frewshwaters.
 
-I am an aquatic ecologist specializing in the chemistry and biology of freshwater ecosystems. My journey into aquatic ecology began with a fascination for understanding how natural and human-modified systems interact to shape water quality and ecosystem health.
-
-## Current Position
-
-I am currently a faculty member in the Department of Biology at the University of Minnesota Duluth, where I conduct research on freshwater ecosystems in the Lake Superior region and broader upper Midwest.
-
-## Research Interests
-
-My research integrates biogeochemical processes with ecological dynamics to understand how human activities affect water quality and aquatic communities. I specialize in:
-
--   **Freshwater Biogeochemistry**: Nutrient cycling, water quality assessment, and ecosystem function
--   **Invasion Ecology**: Species introductions, community dynamics, and ecosystem impacts\
--   **Applied Ecology**: Watershed management, agricultural best practices, and conservation strategies
--   **Field Research Methods**: Long-term monitoring, experimental design, and statistical analysis
-
-## Teaching & Mentorship
-
-At UMD, I am passionate about training the next generation of environmental scientists. I teach courses that bridge fundamental ecological principles with hands-on research experience, including biostatistics and data analysis methods that are essential for modern ecological research.
-
-## Publications & Scholarship
-
-For a complete list of my research publications and scholarly contributions, please visit:
-
--   **ResearchGate Profile**: [View Publications](https://www.researchgate.net/profile/William_Perry11/contributions){target="_blank"}
--   **Google Scholar**: [Citation Metrics](https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en){target="_blank"}
-
-These platforms provide access to my peer-reviewed articles, conference presentations, and ongoing research collaborations.
+#### If you are interested in looking at my publications - they can be found on Research Gate [**(Here)**](https://www.researchgate.net/profile/William_Perry11/contributions) or on google scholar [**(Here)**](https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en)
 
 ------------------------------------------------------------------------
 
-## Contact Information
-
-**Dr. William (Bill) Perry**\
+**Contact Infoformation**\
+Bill Perry\
 Department of Biology\
-University of Minnesota Duluth\
-1035 Kirby Drive\
-Duluth, MN 55812
+Illinois State University\
+Campus Box 4120
 
-**Email**: wlperry\@d.umn.edu\
-**Phone**: 218-726-8000
-
-------------------------------------------------------------------------
-
-## Office Hours & Availability
-
-I welcome inquiries from students, colleagues, and community members interested in freshwater ecology research. Please feel free to contact me via email to schedule a meeting or discuss potential research opportunities.
-
-**Note**: I am not currently accepting new graduate students until Fall 2026, but I'm happy to discuss future opportunities and provide guidance on graduate school preparation.
-
-------------------------------------------------------------------------
-
-*For urgent matters or immediate questions, email is the most reliable way to reach me. I typically respond to emails within 24-48 hours during the academic year.*
+309-438-8160\
+wlperry and the rest is ilstu dot edu
