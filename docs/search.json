@@ -109,7 +109,7 @@
     "href": "index.html",
     "title": "Welcome to Bill Perry’s Research Lab",
     "section": "",
-    "text": "Studying freshwater ecosystems, biogeochemistry, and crayfish ecology at University of Minnesota Duluth\n      \n        \n          📊 Biostatistics Course\n        \n        \n          Learn More About My Research"
+    "text": "Studying freshwater ecosystems, biogeochemistry, and crayfish ecology at University of Minnesota Duluth\n\n\n&lt;a href=\"https://wlperry.github.io/umd_biostats/\" target=\"_blank\" class=\"hero-btn hero-btn-outline\"&gt;\n  📊 Biostatistics Course\n&lt;/a&gt;\n&lt;a href=\"about.qmd\" class=\"hero-btn hero-btn-solid\"&gt;\n  Learn More About My Research\n&lt;/a&gt;"
   },
   {
     "objectID": "index.html#research-overview",
