@@ -14,25 +14,25 @@
     "text": "I am an aquatic ecologist specializing in the chemistry and biology of freshwater ecosystems. My journey into aquatic ecology began with a fascination for understanding how natural and human-modified systems interact to shape water quality and ecosystem health."
   },
   {
-    "objectID": "about.html#educational-background",
-    "href": "about.html#educational-background",
+    "objectID": "about.html#current-position",
+    "href": "about.html#current-position",
     "title": "About Dr. Bill Perry",
-    "section": "Educational Background",
-    "text": "Educational Background\nMy academic training provided a strong foundation in both ecological theory and practical field research methods. This combination allows me to tackle complex environmental questions that require both rigorous scientific approaches and real-world applications."
+    "section": "Current Position",
+    "text": "Current Position\nI am currently a faculty member in the Department of Biology at the University of Minnesota Duluth, where I conduct research on freshwater ecosystems in the Lake Superior region and broader upper Midwest."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "About Dr. Bill Perry",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research integrates biogeochemical processes with ecological dynamics to understand how human activities affect water quality and aquatic communities. I specialize in:\n\nFreshwater Biogeochemistry: Nutrient cycling, water quality assessment, and ecosystem function\nInvasion Ecology: Species introductions, community dynamics, and ecosystem impacts\n\nApplied Ecology: Watershed management, agricultural best practices, and conservation strategies\nField Research Methods: Long-term monitoring, experimental design, and statistical analysis"
   },
   {
     "objectID": "about.html#teaching-mentorship",
     "href": "about.html#teaching-mentorship",
     "title": "About Dr. Bill Perry",
     "section": "Teaching & Mentorship",
-    "text": "Teaching & Mentorship\nAt Illinois State University, I am passionate about training the next generation of environmental scientists. I teach courses that bridge fundamental ecological principles with hands-on research experience, helping students develop both theoretical knowledge and practical skills in:\n\nAquatic ecology and limnology\nBiostatistics and data analysis\n\nField research methods\nEnvironmental problem-solving"
-  },
-  {
-    "objectID": "about.html#research-philosophy",
-    "href": "about.html#research-philosophy",
-    "title": "About Dr. Bill Perry",
-    "section": "Research Philosophy",
-    "text": "Research Philosophy\nMy approach to research emphasizes the importance of long-term studies and collaborative partnerships. I believe that effective environmental science requires working closely with land managers, policymakers, and local communities to develop solutions that are both scientifically sound and practically implementable."
+    "text": "Teaching & Mentorship\nAt UMD, I am passionate about training the next generation of environmental scientists. I teach courses that bridge fundamental ecological principles with hands-on research experience, including biostatistics and data analysis methods that are essential for modern ecological research."
   },
   {
     "objectID": "about.html#publications-scholarship",
@@ -46,7 +46,7 @@
     "href": "about.html#contact-information",
     "title": "About Dr. Bill Perry",
     "section": "Contact Information",
-    "text": "Contact Information\nDr. William (Bill) Perry\nAssociate Professor\nDepartment of Biology\nIllinois State University\nCampus Box 4120\nNormal, IL 61790-4120\nOffice Phone: Email: wlperry@d.umn.edu\nOffice Location: SSB 13 Lab Facilities: TBD"
+    "text": "Contact Information\nDr. William (Bill) Perry\nDepartment of Biology\nUniversity of Minnesota Duluth\n1035 Kirby Drive\nDuluth, MN 55812\nEmail: wlperry@d.umn.edu\nPhone: 218-726-8000"
   },
   {
     "objectID": "about.html#office-hours-availability",
@@ -109,34 +109,34 @@
     "href": "index.html",
     "title": "Welcome to Bill Perry’s Research Lab",
     "section": "",
-    "text": "Graduate Student Applications: I am not currently taking graduate students until Fall 2026."
+    "text": "Studying freshwater ecosystems, biogeochemistry, and crayfish ecology at University of Minnesota Duluth\n      \n        \n          📊 Biostatistics Course\n        \n        \n          Learn More About My Research"
   },
   {
     "objectID": "index.html#research-overview",
     "href": "index.html#research-overview",
     "title": "Welcome to Bill Perry’s Research Lab",
     "section": "Research Overview",
-    "text": "Research Overview\nOur laboratory focuses on two interconnected areas of freshwater ecology research that address critical environmental challenges facing aquatic ecosystems today.\n\n1. Biogeochemistry of Freshwater Systems\nWe investigate the complex chemical and biological processes that govern water quality in streams, lakes, and tile-drained agricultural landscapes. Our current research includes:\n\nWatershed Management & Water Quality: Assessing how land management practices influence downstream water chemistry and ecosystem health\nConstructed Wetland Performance: Evaluating the effectiveness of engineered wetlands for nitrate removal from agricultural runoff\nCover Crop Efficacy: Quantifying how cover crops reduce nutrient losses from agricultural fields\nReservoir Water Quality Monitoring: Long-term monitoring of water quality in streams feeding drinking water reservoirs\n\n\n\n2. Crayfish Ecology & Invasion Biology\nOur crayfish research examines how native and invasive species interact with their environment and each other:\n\nStream Invasion Dynamics: Understanding how invasive crayfish species colonize and establish in new watersheds\nFlow Performance & Behavior: Investigating how water flow affects crayfish movement, feeding, and survival\nMorphological Adaptations: Documenting physical changes in crayfish populations in response to different flow regimes\nCommunity Impacts: Assessing how invasive crayfish affect native species and ecosystem function"
+    "text": "Research Overview\nOur laboratory focuses on two interconnected areas of freshwater ecology research that address critical environmental challenges facing aquatic ecosystems today.\n\n1. Biogeochemistry of Freshwater Systems\nWe investigate the complex chemical and biological processes that govern water quality in streams, lakes, and tile-drained agricultural landscapes. Our current research includes:\n\nWatershed Management & Water Quality: Assessing how land management practices influence downstream water chemistry and ecosystem health\nConstructed Wetland Performance: Evaluating the effectiveness of engineered wetlands for nitrate removal from agricultural runoff\n\nCover Crop Efficacy: Quantifying how cover crops reduce nutrient losses from agricultural fields\nReservoir Water Quality Monitoring: Long-term monitoring of water quality in streams feeding drinking water reservoirs\n\n\n\n2. Crayfish Ecology & Invasion Biology\nOur crayfish research examines how native and invasive species interact with their environment and each other:\n\nStream Invasion Dynamics: Understanding how invasive crayfish species colonize and establish in new watersheds\nFlow Performance & Behavior: Investigating how water flow affects crayfish movement, feeding, and survival\nMorphological Adaptations: Documenting physical changes in crayfish populations in response to different flow regimes\nCommunity Impacts: Assessing how invasive crayfish affect native species and ecosystem function"
   },
   {
     "objectID": "index.html#current-primary-project",
     "href": "index.html#current-primary-project",
     "title": "Welcome to Bill Perry’s Research Lab",
     "section": "Current Primary Project",
-    "text": "Current Primary Project\n\nInnovative Cover Crop Research\nWe are conducting cutting-edge research on the role of cover crops in reducing nutrient loss using a new experimental plot system featuring a novel cash cover crop approach. This comprehensive study examines multiple interconnected aspects:\nSoil & Water Quality - Soil nutrient content and quality assessments - Porewater nitrogen concentration monitoring with and without cover crops - Tile water nutrient loss quantification\nEcological Interactions - Weed species diversity and biomass comparisons between cover crop and reference plots\n- Honeybee utilization patterns of cover crop flowers - Plant-pollinator interaction networks\nAgricultural Sustainability - Economic viability of cash cover crops - Integration with existing farming practices - Long-term sustainability assessments"
+    "text": "Current Primary Project\n\nInnovative Cover Crop Research\nWe are conducting cutting-edge research on the role of cover crops in reducing nutrient loss using a new experimental plot system featuring a novel cash cover crop approach. This comprehensive study examines multiple interconnected aspects:\nSoil & Water Quality - Soil nutrient content and quality assessments - Porewater nitrogen concentration monitoring with and without cover crops - Tile water nutrient loss quantification\nEcological Interactions\n- Weed species diversity and biomass comparisons between cover crop and reference plots - Honeybee utilization patterns of cover crop flowers - Plant-pollinator interaction networks\nAgricultural Sustainability - Economic viability of cash cover crops - Integration with existing farming practices - Long-term sustainability assessments"
   },
   {
     "objectID": "index.html#laboratory-facilities",
     "href": "index.html#laboratory-facilities",
     "title": "Welcome to Bill Perry’s Research Lab",
     "section": "Laboratory Facilities",
-    "text": "Laboratory Facilities\nOur research is supported by state-of-the-art facilities including water chemistry analysis equipment, greenhouse spaces for controlled experiments, and field monitoring stations throughout central Illinois watersheds."
+    "text": "Laboratory Facilities\nOur research is supported by state-of-the-art facilities including water chemistry analysis equipment, greenhouse spaces for controlled experiments, and field monitoring stations throughout the Lake Superior region and upper Midwest watersheds."
   },
   {
     "objectID": "index.html#collaborations",
     "href": "index.html#collaborations",
     "title": "Welcome to Bill Perry’s Research Lab",
     "section": "Collaborations",
-    "text": "Collaborations\nWe work closely with: - The Nature Conservancy on watershed management initiatives - City of Bloomington on water quality monitoring - Local farmers and agricultural organizations - Other Illinois State University departments\n\nThis website is currently being updated with new research findings and project developments. Check back regularly for the latest information about our ongoing work."
+    "text": "Collaborations\nWe work closely with: - The Nature Conservancy on watershed management initiatives\n- Minnesota Pollution Control Agency - Local farmers and agricultural organizations - Other University of Minnesota departments and research centers\n\nThis website is currently being updated with new research findings and project developments. Check back regularly for the latest information about our ongoing work."
   }
 ]

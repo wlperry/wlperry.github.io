@@ -4,27 +4,26 @@ format:
   html:
     toc: true
     toc-depth: 3
-    page-layout: full
 editor: visual
 ---
 
 ```{=html}
-
-  
-    
-      Aquatic Ecology Research
-      Studying freshwater ecosystems, biogeochemistry, and crayfish ecology at Illinois State University
-      
-        
-           Biostatistics Course
-        
-        
+<div class="hero-banner">
+  <div class="container">
+    <div class="hero-content">
+      <h1 class="hero-title">Aquatic Ecology Research</h1>
+      <p class="hero-subtitle">Studying freshwater ecosystems, biogeochemistry, and crayfish ecology at University of Minnesota Duluth</p>
+      <div class="hero-links">
+        <a href="https://wlperry.github.io/umd_biostats/" target="_blank" class="btn btn-outline-light btn-lg">
+          📊 Biostatistics Course
+        </a>
+        <a href="about.qmd" class="btn btn-light btn-lg">
           Learn More About My Research
-        
-      
-    
-  
-
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
 ```
 
 ::: {.alert .alert-warning}
@@ -42,7 +41,7 @@ Our laboratory focuses on two interconnected areas of freshwater ecology researc
 We investigate the complex chemical and biological processes that govern water quality in streams, lakes, and tile-drained agricultural landscapes. Our current research includes:
 
 - **Watershed Management & Water Quality**: Assessing how land management practices influence downstream water chemistry and ecosystem health
-- **Constructed Wetland Performance**: Evaluating the effectiveness of engineered wetlands for nitrate removal from agricultural runoff
+- **Constructed Wetland Performance**: Evaluating the effectiveness of engineered wetlands for nitrate removal from agricultural runoff  
 - **Cover Crop Efficacy**: Quantifying how cover crops reduce nutrient losses from agricultural fields
 - **Reservoir Water Quality Monitoring**: Long-term monitoring of water quality in streams feeding drinking water reservoirs
 
@@ -57,7 +56,8 @@ Our crayfish research examines how native and invasive species interact with the
 
 ## Current Primary Project
 
-### Innovative Cover Crop Research {.research-highlight}
+::: {.research-highlight}
+### Innovative Cover Crop Research
 
 We are conducting cutting-edge research on the **role of cover crops in reducing nutrient loss** using a new experimental plot system featuring a novel cash cover crop approach. This comprehensive study examines multiple interconnected aspects:
 
@@ -66,8 +66,8 @@ We are conducting cutting-edge research on the **role of cover crops in reducing
 - Porewater nitrogen concentration monitoring with and without cover crops
 - Tile water nutrient loss quantification
 
-**Ecological Interactions**
-- Weed species diversity and biomass comparisons between cover crop and reference plots  
+**Ecological Interactions**  
+- Weed species diversity and biomass comparisons between cover crop and reference plots
 - Honeybee utilization patterns of cover crop flowers
 - Plant-pollinator interaction networks
 
@@ -75,20 +75,21 @@ We are conducting cutting-edge research on the **role of cover crops in reducing
 - Economic viability of cash cover crops
 - Integration with existing farming practices
 - Long-term sustainability assessments
+:::
 
 ---
 
 ## Laboratory Facilities
 
-Our research is supported by state-of-the-art facilities including water chemistry analysis equipment, greenhouse spaces for controlled experiments, and field monitoring stations throughout central Illinois watersheds.
+Our research is supported by state-of-the-art facilities including water chemistry analysis equipment, greenhouse spaces for controlled experiments, and field monitoring stations throughout the Lake Superior region and upper Midwest watersheds.
 
 ## Collaborations
 
 We work closely with:
-- The Nature Conservancy on watershed management initiatives
-- City of Bloomington on water quality monitoring
+- The Nature Conservancy on watershed management initiatives  
+- Minnesota Pollution Control Agency
 - Local farmers and agricultural organizations
-- Other Illinois State University departments
+- Other University of Minnesota departments and research centers
 
 ---
 
