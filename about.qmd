@@ -1,6 +1,5 @@
 ---
-title: "About me"
-author: "Bill Perry"
+title: "About Dr. Bill Perry"
 format: 
   html:
     toc: true
@@ -8,17 +7,61 @@ format:
 editor: visual
 ---
 
-#### I am an aquatic ecologist working on both chemistry and biology of frewshwaters.
+## Personal Background
 
-#### If you are interested in looking at my publications - they can be found on Research Gate [**(Here)**](https://www.researchgate.net/profile/William_Perry11/contributions) or on google scholar [**(Here)**](https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en)
+I am an aquatic ecologist specializing in the chemistry and biology of freshwater ecosystems. My journey into aquatic ecology began with a fascination for understanding how natural and human-modified systems interact to shape water quality and ecosystem health.
 
-------------------------------------------------------------------------
+## Educational Background
 
-**Contact Infoformation**\
-Bill Perry\
-Department of Biology\
-Illinois State University\
-Campus Box 4120
+My academic training provided a strong foundation in both ecological theory and practical field research methods. This combination allows me to tackle complex environmental questions that require both rigorous scientific approaches and real-world applications.
 
-309-438-8160\
-wlperry and the rest is ilstu dot edu
+## Teaching & Mentorship
+
+At Illinois State University, I am passionate about training the next generation of environmental scientists. I teach courses that bridge fundamental ecological principles with hands-on research experience, helping students develop both theoretical knowledge and practical skills in:
+
+- Aquatic ecology and limnology
+- Biostatistics and data analysis  
+- Field research methods
+- Environmental problem-solving
+
+## Research Philosophy
+
+My approach to research emphasizes the importance of long-term studies and collaborative partnerships. I believe that effective environmental science requires working closely with land managers, policymakers, and local communities to develop solutions that are both scientifically sound and practically implementable.
+
+## Publications & Scholarship
+
+For a complete list of my research publications and scholarly contributions, please visit:
+
+- **ResearchGate Profile**: [View Publications](https://www.researchgate.net/profile/William_Perry11/contributions){target="_blank"}
+- **Google Scholar**: [Citation Metrics](https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en){target="_blank"}
+
+These platforms provide access to my peer-reviewed articles, conference presentations, and ongoing research collaborations.
+
+---
+
+## Contact Information
+
+**Dr. William (Bill) Perry**  
+Associate Professor  
+Department of Biology  
+Illinois State University  
+Campus Box 4120  
+Normal, IL 61790-4120
+
+**Office Phone**: 
+**Email**: wlperry@d.umn.edu 
+
+**Office Location**: SSB 13 
+**Lab Facilities**: TBD
+
+---
+
+## Office Hours & Availability
+
+I welcome inquiries from students, colleagues, and community members interested in freshwater ecology research. Please feel free to contact me via email to schedule a meeting or discuss potential research opportunities.
+
+**Note**: I am not currently accepting new graduate students until Fall 2026, but I'm happy to discuss future opportunities and provide guidance on graduate school preparation.
+
+---
+
+*For urgent matters or immediate questions, email is the most reliable way to reach me. I typically respond to emails within 24-48 hours during the academic year.*

@@ -1,5 +1,5 @@
 ---
-title: "Fun me"
+title: "Life Outside the Lab"
 author: "Bill Perry"
 format: 
   html:
@@ -8,10 +8,32 @@ format:
 editor: visual
 ---
 
-## This will be fun stuff eventually
+## Cyclocross Racing
 
-![Bill after a cyclecross race](images/wlp_postrace.jpg) This is what I look like when I have had some fun.
+When I'm not studying aquatic ecosystems, you'll likely find me on two wheels exploring the cycling trails around Duluth or competing in cyclocross races. Cyclocross combines the endurance of road cycling with the technical challenges of off-road terrain - mud, barriers, steep hills, and all kinds of weather conditions.
 
-![Bike after a cyclecross race](images/wlbike.jpg)
+### Post-Race Reflections
 
-## This is what the bike looks like
+![Bill after a cyclocross race](images/wlp_postrace.jpg){fig-align="center" width="400"}
+
+This is what I look like after having some real fun on the bike! Cyclocross racing is equal parts exhilarating and exhausting. There's something satisfying about pushing your limits in challenging conditions while connecting with the cycling community.
+
+### The Equipment
+
+![Bike after a cyclocross race](images/wlbike.jpg){fig-align="center" width="400"}
+
+And this is what my trusty cyclocross bike looks like after a good race - a little muddy but ready for the next adventure. The bike takes almost as much of a beating as the rider, but that's all part of the sport's charm.
+
+## Why Cycling?
+
+Cycling provides the perfect complement to my research life. While my days are often spent analyzing water samples and studying ecological data, cycling gets me outdoors experiencing the landscapes I study from a completely different perspective. 
+
+There's also an interesting parallel between the endurance required for long-term ecological research and the persistence needed for cycling training and racing. Both require patience, dedication, and the ability to keep going when conditions get tough.
+
+## Balance & Wellness
+
+Maintaining an active lifestyle helps me stay energized and focused in my research. The physical challenges of cycling training provide a great counterbalance to the intellectual challenges of academic work, and the cycling community has become an important part of my life outside the university.
+
+---
+
+*More content coming soon as I continue to explore the intersection of outdoor recreation, environmental awareness, and academic life!*

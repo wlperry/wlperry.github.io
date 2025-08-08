@@ -1,91 +1,278 @@
-/* styles.css */
+/*-- scss:defaults --*/
+
+// Custom SCSS variables for Bill Perry's Website
+$isu-red: #ce1126;
+$isu-gold: #f4cd54;
+$isu-dark-red: #70131d;
+$text-dark: #212529;
+$text-light: #6c757d;
+$background-light: #f8f9fa;
+
+// Override Bootstrap variables
+$primary: $isu-dark-red;
+$secondary: $isu-gold;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: $background-light;
+$dark: $text-dark;
+
+/*-- scss:rules --*/
 
 /* -------------------------- */
-/* Base styling for the body  */
+/* Base styling improvements  */
 /* -------------------------- */
 body {
-  background-color: #FFFFFF;  /* Light grey background for overall readability */
-  color: #343a40;             /* Dark grey text for body content */
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  /* Preferred fonts with fallbacks */
-  line-height: 1.6;           /* Improve text readability with adequate line spacing */
-  margin: 0;                  /* Remove default browser margins */
-  padding: 1rem;              /* Add padding around the main content */
+  background-color: #ffffff;
+  color: #343a40;
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+  margin: 0;
 }
 
 /* ------------------------- */
-/* Header styling            */
+/* Custom color variables    */
 /* ------------------------- */
-header {
-  background-color: #FFFFFF;  /* Set header background to purple */
-  color: #343a40;             /* Set header text to purple (Note: same as background; consider adjusting for contrast) */
-  padding: 1rem;              /* Add space inside the header */
-}
-
-
-/* Header links styling */
-header a {
-  color: #F4CD54;             /* Use purple for links within the header */
-}
-
-header a:hover {
-  color: #FFFF09;             /* Change link color on hover for better visual feedback */
+:root {
+  --isu-red: #ce1126;
+  --isu-gold: #f4cd54;
+  --isu-dark-red: #70131d;
+  --text-dark: #212529;
+  --text-light: #6c757d;
+  --background-light: #f8f9fa;
 }
 
 /* ------------------------- */
-/* Heading elements styling  */
+/* Header and navbar styling */
 /* ------------------------- */
-h1, h2, h3 {
-  color: #212529;             /* Use a dark grey for headings */
-  margin-top: 1.5rem;         /* Add space above headings */
+.navbar {
+  background-color: var(--isu-dark-red) !important;
+  border-bottom: 3px solid var(--isu-gold);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: var(--isu-gold) !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important;
+  background-color: rgba(244, 205, 84, 0.1);
+  border-radius: 4px;
 }
 
 /* ------------------------- */
-/* General link styling      */
+/* Hero section styling      */
+/* ------------------------- */
+.hero-banner {
+  background: linear-gradient(135deg, var(--isu-dark-red) 0%, var(--isu-red) 100%);
+  color: white;
+  padding: 3rem 0;
+  margin-bottom: 2rem;
+}
+
+.hero-content {
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.hero-subtitle {
+  font-size: 1.25rem;
+  opacity: 0.9;
+  margin-bottom: 1.5rem;
+}
+
+.hero-links {
+  margin-top: 1.5rem;
+}
+
+.hero-links .btn {
+  margin: 0.25rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-width: 2px;
+}
+
+.hero-links .btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+
+/* ------------------------- */
+/* Content styling           */
+/* ------------------------- */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--isu-dark-red);
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  border-bottom: 3px solid var(--isu-gold);
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  color: var(--isu-red);
+  border-left: 4px solid var(--isu-gold);
+  padding-left: 1rem;
+}
+
+/* ------------------------- */
+/* Image styling             */
+/* ------------------------- */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.02);
+}
+
+.wrap-right {
+  float: right;
+  margin: 0 0 20px 20px;
+  border: 2px solid var(--isu-gold);
+}
+
+/* Profile image specific styling */
+.profile-img {
+  border: 3px solid var(--isu-gold);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+/* ------------------------- */
+/* Link styling              */
 /* ------------------------- */
 a {
-  color: #007bff;             /* Default blue color for links */
-  text-decoration: none;      /* Remove underlines from links */
+  color: var(--isu-red);
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
 
 a:hover {
-  text-decoration: underline; /* Underline links on hover for clarity */
+  color: var(--isu-dark-red);
+  text-decoration: underline;
+}
+
+/* External links styling */
+a[target="_blank"]::after {
+  content: " ↗";
+  font-size: 0.8em;
+  color: var(--text-light);
 }
 
 /* ------------------------- */
-/* Image responsiveness      */
+/* Card-like content blocks  */
 /* ------------------------- */
-img {
-  max-width: 100%;            /* Ensure images scale within their container */
-  height: auto;               /* Maintain the image's aspect ratio */
-  border-radius: 5px;         /* Slightly round the corners of images */
+.content-card {
+  background-color: var(--background-light);
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.research-highlight {
+  border-left: 4px solid var(--isu-gold);
+  background-color: rgba(244, 205, 84, 0.05);
 }
 
 /* ------------------------- */
-/* Navigation bar (navbar)   */
+/* Table styling             */
 /* ------------------------- */
-.navbar {
-  background-color: #70131d;  /* Set navbar background to purple */
-  color: #F4CD54;             /* Set navbar text to purple (Note: same as background; may need adjustment for readability) */
-  padding: 1rem;              /* Add padding within the navbar */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  overflow: hidden;
 }
 
-/* Navbar links styling */
-.navbar a {
-  color: #F4CD54;             /* Set links inside navbar to purple */
-  text-decoration: none;      /* Remove underlines from navbar links */
+th {
+  background-color: var(--isu-dark-red);
+  color: white;
+  padding: 1rem;
+  text-align: left;
 }
 
-.navbar a:hover {
-  color: #FFFF09;             /* Use a lighter color on hover for navbar links */
+td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #dee2e6;
 }
 
 /* ------------------------- */
 /* Footer styling            */
 /* ------------------------- */
-footer {
-  text-align: center;         /* Center-align footer text */
-  margin-top: 2rem;           /* Add space above the footer */
-  padding: 1rem;              /* Add padding inside the footer */
-  background-color: #343a40;  /* Dark grey background for the footer */
-  color: white;               /* White text for better contrast in the footer */
+.page-footer {
+  background-color: var(--isu-dark-red) !important;
+  color: var(--isu-gold) !important;
+  border-top: 3px solid var(--isu-gold);
+  margin-top: 3rem;
+}
+
+.page-footer a {
+  color: var(--isu-gold) !important;
+}
+
+.page-footer a:hover {
+  color: white !important;
+}
+
+/* ------------------------- */
+/* Responsive improvements   */
+/* ------------------------- */
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+  
+  .wrap-right {
+    float: none;
+    display: block;
+    margin: 1rem auto;
+    text-align: center;
+  }
+  
+  .navbar-brand {
+    font-size: 1rem;
+  }
+}
+
+/* ------------------------- */
+/* Table of contents styling */
+/* ------------------------- */
+.toc-title {
+  color: var(--isu-dark-red);
+  font-weight: 600;
+}
+
+.nav-link.active {
+  color: var(--isu-red) !important;
+  font-weight: 600;
+}
+
+/* ------------------------- */
+/* Print styles              */
+/* ------------------------- */
+@media print {
+  .navbar, .page-footer, .toc {
+    display: none;
+  }
 }
