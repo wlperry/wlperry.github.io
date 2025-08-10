@@ -64,19 +64,19 @@ img {
 /* Navigation bar (navbar)   */
 /* ------------------------- */
 .navbar {
-  background-color: #70131d;  /* Set navbar background to purple */
-  color: #F4CD54;             /* Set navbar text to purple (Note: same as background; may need adjustment for readability) */
+  background-color: #70131d;  /* Set navbar background to dark red */
+  color: #F4CD54;             /* Set navbar text to yellow */
   padding: 1rem;              /* Add padding within the navbar */
 }
 
 /* Navbar links styling */
 .navbar a {
-  color: #F4CD54;             /* Set links inside navbar to purple */
+  color: #F4CD54;             /* Set links inside navbar to yellow */
   text-decoration: none;      /* Remove underlines from navbar links */
 }
 
 .navbar a:hover {
-  color: #FFFF09;             /* Use a lighter color on hover for navbar links */
+  color: #FFFF09;             /* Use a brighter yellow on hover for navbar links */
 }
 
 /* ------------------------- */
