@@ -1,0 +1,187 @@
+/*-- scss:defaults --*/
+
+// UMD Colors
+$primary: #7a0019;
+$secondary: #ffcc33;
+$light: #f8f9fa;
+$dark: #5d0013;
+
+/*-- scss:rules --*/
+
+// Hero banner styling
+.hero-banner {
+  background: linear-gradient(135deg, $dark 0%, $primary 100%);
+  color: white;
+  padding: 4rem 0;
+  margin-top: -2rem;
+  margin-bottom: 3rem;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  text-align: center;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: white !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.hero-subtitle {
+  font-size: 1.3rem;
+  margin-bottom: 2rem;
+  color: white !important;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+  opacity: 0.95;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hero-btn {
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  display: inline-block;
+  border: 2px solid white;
+}
+
+.hero-btn-outline {
+  background-color: transparent;
+  color: white;
+}
+
+.hero-btn-outline:hover {
+  background-color: white;
+  color: $primary;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  text-decoration: none;
+}
+
+.hero-btn-solid {
+  background-color: white;
+  color: $primary;
+  border-color: white;
+}
+
+.hero-btn-solid:hover {
+  background-color: $secondary;
+  border-color: $secondary;
+  color: $primary;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+  text-decoration: none;
+}
+
+// Navbar improvements
+.navbar {
+  background-color: $primary !important;
+  border-bottom: 3px solid $secondary;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: $secondary !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: white !important;
+  background-color: rgba(255, 204, 51, 0.1);
+  border-radius: 4px;
+}
+
+// Content styling
+h1, h2, h3, h4, h5, h6 {
+  color: $dark;
+  font-weight: 600;
+}
+
+h1 {
+  border-bottom: 3px solid $secondary;
+  padding-bottom: 0.5rem;
+}
+
+h2 {
+  color: $primary;
+  border-left: 4px solid $secondary;
+  padding-left: 1rem;
+}
+
+// Image styling
+.wrap-right {
+  float: right;
+  margin: 0 0 20px 20px;
+  border: 2px solid $secondary;
+  border-radius: 8px;
+}
+
+.profile-img {
+  border: 3px solid $secondary;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+// Links
+a {
+  color: $primary;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: $dark;
+}
+
+// Alert styling
+.alert-warning {
+  background-color: rgba(255, 204, 51, 0.1);
+  border-left: 4px solid $secondary;
+  border-radius: 8px;
+  color: $primary;
+  font-weight: 500;
+}
+
+// Research highlight box
+.research-highlight {
+  border-left: 4px solid $secondary;
+  background-color: rgba(255, 204, 51, 0.05);
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+}
+
+// Responsive design
+@media (max-width: 768px) {
+  .hero-title {
+    font-size: 2.2rem;
+  }
+  
+  .hero-subtitle {
+    font-size: 1.1rem;
+  }
+  
+  .hero-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .hero-btn {
+    width: 80%;
+    max-width: 300px;
+  }
+  
+  .wrap-right {
+    float: none;
+    display: block;
+    margin: 1rem auto;
+    text-align: center;
+    max-width: 250px;
+  }
+}
