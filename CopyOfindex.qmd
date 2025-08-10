@@ -1,0 +1,59 @@
+---
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+editor: visual
+---
+
+```{=html}
+<style>
+.wrap-right {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+</style>
+```
+
+# Welcome to my new webpage.
+
+**Sorry I am not taking graduate students until Fall 2026**
+
+![](images/perry.jpg){.wrap-right fig-align="right" width="255"}
+
+## The work we do in the laboratory covers two broad areas of research
+
+1.  Bigeochemistry of streams, lakes, and tile-drained agricultural fields
+
+-   Watershed management effects on stream water quality
+
+-   Nitrate removal of constructed wetlands
+
+-   Cover crop reduction of nitrate losses
+
+-   Monitoring water quality in streams entering two drinking water reservoirs
+
+2.  Crayfish ecology and invasions
+
+-   Invasion dynamics in streams
+
+-   Performance and behavior in flow
+
+-   Morphological differences in response to flow
+
+My laboratory is currently working on one primary project:
+
+1.  Role of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:
+
+-   Soil quality and nutrient content
+
+-   porewater nitrogen concentrations with and without cover crops
+
+-   weed diversity and biomass associated with cover crops compared to reference
+
+-   honeybee use of the cover crop
+
+-   nutrient loss from tile water
+
+still updating and seeing if I can fix the navbar

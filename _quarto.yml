@@ -12,10 +12,19 @@ website:
         href: "https://wlperry.github.io/umd_biostats/"
       - text: "About"
         href: about.qmd
-  # Optionally, add a footer or other settings here
+    right:
+      - icon: github
+        href: https://github.com/wlperry
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:wlperry@d.umn.edu
+        aria-label: Email
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en
+        aria-label: Google Scholar
 
 format:
   html:
-    css: styles.css        # Reference your custom CSS file
-    toc: true              # Enable a table of contents if your pages are long
+    css: styles.css        
+    toc: true              
     toc-title: "On this page"

@@ -13,47 +13,196 @@ editor: visual
   margin-left: 20px;
   margin-bottom: 20px;
 }
+
+.announcement-box {
+  border: 3px solid #70131d;
+  background-color: #f8f9fa;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  margin-right: 280px;
+}
+
+.announcement-box.full-width {
+  margin-right: 0;
+  clear: both;
+}
+
+.announcement-box.moving {
+  border-color: #dc3545;
+  background-color: #f8d7da;
+}
+
+.announcement-box.opportunities {
+  border-color: #28a745;
+  background-color: #d4edda;
+}
+
+.announcement-box h3 {
+  margin-top: 0;
+  color: #212529;
+  font-weight: bold;
+}
+
+.section-header {
+  color: #70131d;
+  border-bottom: 2px solid #70131d;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.project-section {
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 15px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.project-section h3 {
+  color: #70131d;
+  margin-top: 0;
+}
+
+.highlight-box {
+  background-color: #fff3cd;
+  border: 1px solid #ffeaa7;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+.navbar,
+.navbar-expand-lg {
+  background-color: #70131d !important;
+  color: #F4CD54 !important;
+  padding: 1rem !important;
+}
+
+.navbar-brand,
+.navbar-brand:hover,
+.navbar-brand:focus {
+  color: #F4CD54 !important;
+}
+
+.navbar-nav .nav-link {
+  color: #F4CD54 !important;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: #FFFF09 !important;
+}
+
+.navbar a {
+  color: #F4CD54 !important;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #FFFF09 !important;
+}
 </style>
 ```
 
-# Welcome to my new webpage.
-
-**Sorry I am not taking graduate students until Fall 2026**
+# Welcome to my webpage!
 
 ![](images/perry.jpg){.wrap-right fig-align="right" width="255"}
 
-## The work we do in the laboratory covers two broad areas of research
+<div class="announcement-box moving">
+<h3>🚨 Important Update: I have moved to the University of Minnesota Duluth</h3>
+<p><strong>I am no longer taking graduate students at Illinois State University.</strong> My position there has ended, and I have transitioned to UMD where I am excited to begin new research projects.</p>
+</div>
 
-1.  Bigeochemistry of streams, lakes, and tile-drained agricultural fields
+<div class="announcement-box opportunities">
+<h3>🎓 Graduate Opportunities Available at UM-Duluth!</h3>
+<p><strong>I am actively seeking graduate students</strong> interested in:</p>
+<ul>
+<li><strong>Urban stream ecology</strong></li>
+<li><strong>Rusty crayfish invasion dynamics</strong></li> 
+<li><strong>Stream biological research</strong></li>
+<li><strong>Other aquatic ecology projects</strong></li>
+</ul>
+<p><strong>Funding available:</strong> I have support for graduate research assistantships and summer RA positions. If you're interested in joining my lab, please reach out!</p>
+</div>
+
+---
+
+## New Projects Being Developed at UMD
+
+<div class="project-section">
+<h3>Current Research Focus Areas</h3>
+
+<p>My new laboratory at the University of Minnesota Duluth is developing exciting research programs in:</p>
+
+<div class="highlight-box">
+<strong>🏙️ Urban Stream Ecology</strong> - Investigating how urbanization affects stream ecosystems and water quality
+</div>
+
+<div class="highlight-box">
+<strong>🦀 Invasion Biology</strong> - Continuing work on rusty crayfish and other invasive species dynamics
+</div>
+
+<div class="highlight-box">
+<strong>🐟 Lamprey Population Dynamics</strong> - New research on native lamprey species in Great Lakes tributaries
+</div>
+
+<div class="highlight-box">
+<strong>🌊 General Stream Ecology</strong> - Broad ecosystem studies of northern Minnesota waterways
+</div>
+
+</div>
+
+---
+
+<h2 class="section-header">Previous Research at Illinois State University</h2>
+
+<div class="project-section">
+<h3>Past Laboratory Research Areas</h3>
+
+<p>The work conducted in my previous laboratory covered two broad areas of research:</p>
+
+**1. Biogeochemistry of streams, lakes, and tile-drained agricultural fields**
 
 -   Watershed management effects on stream water quality
-
--   Nitrate removal of constructed wetlands
-
+-   Nitrate removal of constructed wetlands  
 -   Cover crop reduction of nitrate losses
-
 -   Monitoring water quality in streams entering two drinking water reservoirs
 
-2.  Crayfish ecology and invasions
+**2. Crayfish ecology and invasions**
 
 -   Invasion dynamics in streams
-
 -   Performance and behavior in flow
-
 -   Morphological differences in response to flow
 
-My laboratory is currently working on one primary project:
+<h4>Recent Illinois State Project:</h4>
 
-1.  Role of cover crops in reducing nutrient loss from a new experimental plot system using a new cash cover crop.The aspects of this project we will be working on are:
+**Role of cover crops in reducing nutrient loss** from a new experimental plot system using a new cash cover crop. The aspects of this project included:
 
 -   Soil quality and nutrient content
+-   Porewater nitrogen concentrations with and without cover crops
+-   Weed diversity and biomass associated with cover crops compared to reference
+-   Honeybee use of the cover crop
+-   Nutrient loss from tile water
 
--   porewater nitrogen concentrations with and without cover crops
+</div>
 
--   weed diversity and biomass associated with cover crops compared to reference
+---
 
--   honeybee use of the cover crop
+<div class="announcement-box full-width">
+<h3>📧 Interested in joining my research group?</h3>
+<p>I encourage prospective graduate students to reach out via email to discuss research opportunities, funding options, and application processes. I'm particularly excited to work with students who are passionate about aquatic ecology and environmental science.</p>
 
--   nutrient loss from tile water
+<p><strong>Background preferred:</strong> Students with a background in ecology and preferably with aquatic ecology experience.</p>
 
-still updating and seeing if I can fix the navbar
+<p><strong>Please include with your inquiry:</strong></p>
+<ul>
+<li>Curriculum vitae or resume</li>
+<li>Unofficial transcript or list of classes and GPA</li>
+<li>Brief description of your research interests</li>
+</ul>
+
+<p><strong>Contact:</strong> <a href="mailto:wlperry@d.umn.edu">wlperry@d.umn.edu</a></p>
+</div>
