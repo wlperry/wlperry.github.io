@@ -56,4 +56,4 @@ My laboratory is currently working on one primary project:
 
 -   nutrient loss from tile water
 
-still updating
+still updating and seeing if I can fix the navbar
