@@ -1,2 +1,531 @@
 
+
+styles biostats.css
+92 lines
+
+css
+
+
+styles.css
+92 lines
+
+css
+
+
+about.qmd
+25 lines
+
+text
+
+
+fun.qmd
+18 lines
+
+text
+
+
+index.qmd
+60 lines
+
+text
+
+
+projects.qmd
+28 lines
+
+text
+
+
+index biostats.qmd
+251 lines
+
+text
+
+I have a website - https://wlperry.github.io/umd_biostats/ and another website - https://wlperry.github.io/index.html - and I want the headers or top navigation bar to be the same but need to modify this css file and file to do only that - I only want css not scss as in the past you have destroyed my project with crazy changes that dont work so make it the same as the biostats web site
+
+The styles biostats.css is the one for the biostats that I want to mimic into the styles css file I have also attached the index.qmd and other files that are being rendered to that site - for nowI only want the nav bar to be similar and no other changes to make sure that will work first before destroying this project like you have done in the past
+
+i also put in the index qmd file from the biostats that I want the banner to look like - index_biostats.qmd
+
+I understand you want to modify your styles.css file to match the navigation bar styling from your biostatistics website, without making any other changes that might break your existing project.
+
+Looking at your styles biostats.css, I can see the navbar styling uses a dark red background (
+#70131d) with yellow text (
+#F4CD54) and yellow hover effects (
+#FFFF09).
+
+Here's the minimal change to your styles.css file - I'm only updating the navbar section to match the biostatistics site:
+
+
+Updated styles.css - Navbar Only
+Code 
+The only changes I made to your existing styles.css file are:
+
+Navbar background: Changed from 
+#70131d (keeping the same dark red as your biostatistics site)
+Navbar text color: Confirmed it's 
+#F4CD54 (yellow, same as biostatistics)
+Navbar link colors: Confirmed they match the biostatistics styling
+Updated comments: Clarified the color descriptions for better understanding
+All other styling (body, header, headings, general links, images, footer) remains exactly the same as your original file. This should give you the same navbar appearance as your biostatistics website without affecting any other part of your existing site.
+
+
+
+
+
+Bill Perry’s Website.html
+613 lines
+
+html
+
+it does not seem to be changing on the github website ?
+
+Looking at the HTML file you provided, I can see the issue. Your website is using Bootstrap navbar classes, not the custom .navbar class from your CSS file. The HTML shows:
+
+html
+<nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+This is using Bootstrap's built-in navbar styling, which overrides your custom CSS. To match your biostatistics site's navbar styling, we need to add CSS that targets the actual Bootstrap classes being used.
+
+Let me update your CSS file to target the correct classes:
+
+
+Updated styles.css - Navbar Only
+Code ∙ Version 2 
+The key changes I made:
+
+Added !important to override Bootstrap's default styling
+Added specific Bootstrap class selectors like .navbar-expand-lg, .navbar-brand, .navbar-nav .nav-link
+Targeted the exact classes that your HTML is using
+The !important declarations are necessary because Bootstrap's CSS is loaded after your custom CSS, so it normally takes precedence. This will ensure your custom colors (dark red background 
+#70131d and yellow text 
+#F4CD54) override Bootstrap's default dark theme.
+
+After you update your CSS file with these changes and push to GitHub, the navbar should match your biostatistics website's appearance.
+
+
+
+
+
+index.qmd
+60 lines
+
+text
+
+
+styles.css
+108 lines
+
+css
+
+
+_quarto.yml
+24 lines
+
+yml
+
+it still does not change on github? what could be the cause in these files?
+
+Looking at your _quarto.yml file, I can see the issue! Your Quarto configuration is using the "flatly" theme, which is a Bootstrap theme that loads its own CSS after your custom CSS file. This means the theme's navbar styling is overriding your custom styles.
+
+The problem is in this section of your _quarto.yml:
+
+yaml
+format:
+  html:
+    theme: flatly         # This theme is overriding your navbar styles
+    css: styles.css       # Your CSS loads first, then gets overridden
+Here are two solutions:
+
+Solution 1: Remove the theme (Recommended)
+Update your _quarto.yml file to remove the theme:
+
+
+Updated _quarto.yml - Remove theme
+Code 
+Solution 2: If you want to keep the theme, use even stronger CSS overrides
+If you prefer to keep the flatly theme, you'll need to make your CSS overrides even more specific. Update your navbar section in styles.css:
+
+
+Stronger CSS overrides for navbar
+Code 
+I recommend Solution 1 (removing the theme) because:
+
+It's simpler and cleaner
+You have full control over your styling
+No conflicts with theme CSS
+Your biostatistics site likely doesn't use a conflicting theme
+After making either change:
+
+Save the files
+Rebuild your site locally with quarto render (if you're using Quarto CLI)
+Commit and push the changes to GitHub
+Wait a few minutes for GitHub Pages to rebuild
+The theme conflict is definitely why your navbar styling isn't appearing on the live site!
+
+
+
+
+ok so I am stumped why is it not updating and changing on the website
+
+Let me help you troubleshoot this step by step. There are several common reasons why GitHub Pages might not be updating:
+
+
+GitHub Pages not updating changes troubleshooting 2025
+10 results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Based on the search results, here's a systematic troubleshooting checklist for your GitHub Pages not updating:
+
+Step-by-Step Troubleshooting:
+1. Check GitHub Pages Deployment Status
+First, let's verify if your site is actually building:
+
+Go to your repository on GitHub
+Click the "Actions" tab
+Look for recent "Build and Deploy" or "pages build and deployment" workflows
+Check if any builds are failing or if there are no recent builds at all
+2. Clear Browser Cache (Hard Refresh)
+Sometimes, your browser caches the old version of the site 
+GitHub Pages Not Updating After Pushing Changes · community · Discussion #152753
+:
+
+Windows/Linux: Press Ctrl + Shift + R
+Mac: Press Cmd + Shift + R
+Try opening your site in an incognito/private window
+3. Check Your Repository Settings
+Go to your repo → Settings → Pages
+Verify the source is set correctly (should be "Deploy from a branch" with your main branch selected)
+Check if there's a build status message at the top
+4. Force a GitHub Pages Rebuild
+Try one of these methods to trigger a fresh deployment:
+
+Method A: Make a small change
+
+Edit any file (like add a space to README.md)
+Commit and push the change
+Method B: Empty commit
+
+bash
+git commit --allow-empty -m "Trigger GitHub Pages rebuild"
+git push
+5. Check for Build Errors
+In your repository:
+
+Go to Settings → Pages
+Look for any error messages about your build
+Sometimes GitHub Pages won't update if there are build errors, and it's a protection mechanism 
+Why does my GitHub page not update its content? - Stack Overflow
+6. Verify Your Output Directory
+Since you're using Quarto with output-dir: docs in your _quarto.yml, make sure:
+
+You're actually building your site locally with quarto render
+The docs folder is being committed and pushed to GitHub
+Your GitHub Pages is set to deploy from the docs folder (not root)
+7. Check GitHub Status
+Sometimes it's a server issue, as GitHub Page has degraded performance 
+GitHub Pages Not Deploying · community · Discussion #23885
+:
+
+Visit https://www.githubstatus.com/
+Look for any GitHub Pages issues
+Most Likely Issues for Your Specific Case:
+Quarto Build Issue: You might not be running quarto render locally before pushing
+Wrong Source Setting: GitHub Pages might be looking at the wrong folder
+Theme Conflict: The flatly theme in your _quarto.yml might be causing build issues
+Quick Fix to Try:
+Remove the theme: flatly line from your _quarto.yml (as we discussed)
+Run quarto render locally
+Commit and push both the updated _quarto.yml and the generated files in the docs folder
+Wait 2-3 minutes and check your site
+Can you check your GitHub repository's Actions tab and let me know what you see there? This will tell us if the builds are actually running and succeeding.
+
+
+
+
+it is not updating and I want to try to rename the branch from master to main - how can i do that
+
+Great idea! GitHub has moved to using main as the default branch name, and this might help resolve your Pages deployment issues. Here's how to rename your branch from master to main:
+
+Method 1: Using GitHub Web Interface (Easiest)
+Go to your repository on GitHub
+Click on the branch dropdown (where it shows "master")
+Type "main" in the text box
+Click "Create branch: main from master"
+Go to Settings → General
+Scroll down to "Default branch"
+Click the switch icon next to the default branch
+Select "main" and click "Update"
+Click "I understand, update the default branch"
+Go to Settings → Pages
+Change the source branch from "master" to "main"
+Click "Save"
+Method 2: Using Command Line
+If you prefer using Git commands:
+
+bash
+# 1. Rename your local branch
+git branch -m master main
+
+# 2. Push the new main branch to GitHub
+git push -u origin main
+
+# 3. Delete the old master branch from GitHub
+git push origin --delete master
+Then follow steps 6-12 from Method 1 above.
+
+Method 3: Complete Fresh Start (If the above doesn't work)
+If you're still having issues, you can create a completely new main branch:
+
+bash
+# 1. Create and switch to a new main branch
+git checkout -b main
+
+# 2. Push the new branch
+git push -u origin main
+
+# 3. Delete the old master branch
+git push origin --delete master
+After Renaming:
+Update your _quarto.yml if needed (shouldn't be necessary)
+Go to Settings → Pages and make sure it's deploying from the main branch
+Make a small change to trigger a new deployment
+Check the Actions tab to see if a new deployment starts
+Update Your Local Git Config (Optional)
+To make main the default for future repositories:
+
+bash
+git config --global init.defaultBranch main
+This branch rename often resolves GitHub Pages deployment issues! Let me know if you run into any problems during the process.
+
+
+
+
+I have changed the text in the index.html and it shows on the github website but the nav bar is still not changing?
+
+Since the text changes are showing up but the navbar styling isn't, this confirms that GitHub Pages is updating correctly. The issue is specifically with your CSS not being applied to the navbar.
+
+Let me help you debug this step by step:
+
+First, let's check your current setup:
+Verify your file structure - Can you confirm you have:
+styles.css in the root of your repository
+_quarto.yml in the root of your repository
+The docs folder is being generated when you run quarto render
+Check if CSS is loading - Open your website and:
+Right-click on the page → "Inspect Element" or "Developer Tools"
+Go to the "Network" tab
+Refresh the page
+Look for styles.css in the list - does it load successfully or show a 404 error?
+Most likely issue: CSS file location
+Your _quarto.yml has output-dir: docs, which means Quarto is building your site into the docs folder. But your styles.css might not be getting copied there.
+
+Try this fix:
+
+
+Updated _quarto.yml with correct CSS path
+Code 
+Alternative solution: Move CSS into your QMD file
+Since your current index.qmd already has some inline CSS, let's add the navbar styles directly there:
+
+
+index.qmd with navbar CSS included
+Code 
+Try this approach:
+Replace your index.qmd content with the version above that includes the navbar CSS
+Run quarto render locally
+Commit and push the changes
+Wait 2-3 minutes and check your site
+This approach puts the CSS directly in the HTML file, which eliminates any issues with external CSS file loading.
+
+Can you also check: When you inspect your live website, can you see if the styles.css file is actually being loaded in the Network tab of your browser's developer tools?
+
+
+
+
+there is this error in that list
+
+Request URL
+https://wlperry.github.io/site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css
+Request Method
+GET
+Status Code
+404 Not Found
+Remote Address
+185.199.110.153:443
+Referrer Policy
+strict-origin-when-cross-origin
+
+and this one
+
+Request URL
+https://wlperry.github.io/site_libs/bootstrap/bootstrap-79108a0fc1995748cbd19a5b0e3e3e7c.min.css
+Request Method
+GET
+Status Code
+404 Not Found
+Remote Address
+185.199.110.153:443
+Referrer Policy
+strict-origin-when-cross-origin
+
+Perfect! You found the issue. Those 404 errors show that Quarto is looking for files in a site_libs folder that doesn't exist on your GitHub Pages site. This is because your Quarto configuration has output-dir: docs, but the HTML files are referencing paths as if they're in the root directory.
+
+The Problem:
+Your site is being served from https://wlperry.github.io/ but Quarto is generating files that expect to be in a subfolder structure with site_libs.
+
+Solution: Fix your GitHub Pages source setting
+Go to your GitHub repository
+Click Settings → Pages
+Under "Source", make sure it's set to:
+Source: Deploy from a branch
+Branch: main (or master)
+Folder: /docs ← This is crucial!
+If that doesn't work, try this alternative approach:
+Change your _quarto.yml to build to the root instead of docs:
+
+
+Fixed _quarto.yml - Build to root
+Code 
+Then follow these steps:
+Update your _quarto.yml with the version above (remove the output-dir: docs line)
+Delete the existing docs folder from your repository
+Run quarto render locally - this will now build files directly in your root directory
+Update GitHub Pages settings:
+Go to Settings → Pages
+Set Folder to / (root) instead of /docs
+Commit and push all the new files (index.html, site_libs folder, etc.)
+Wait for deployment and check your site
+This should resolve the 404 errors because the site_libs folder and all other Quarto-generated files will be in the correct location relative to your HTML files.
+
+The 404 errors you found are definitely the root cause of your CSS not loading!
+
+
+
+
+the pages are not in the directory _site?
+
+You're absolutely right! Quarto websites typically build to a _site directory by default, not docs. Let me help you fix this properly.
+
+The issue is a mismatch between where Quarto builds and where GitHub Pages is looking:
+Quarto default: Builds to _site folder
+Your config: Says output-dir: docs
+GitHub Pages: Is probably looking in the wrong place
+Let's check what's actually happening:
+First, run quarto render locally and tell me:
+
+Does it create a _site folder or a docs folder?
+What folders do you see in your project directory after rendering?
+Here are two ways to fix this:
+Option 1: Use the default _site directory
+
+_quarto.yml - Use default _site directory
+Code 
+Then set GitHub Pages to use a GitHub Action instead of a folder:
+
+Go to Settings → Pages
+Change Source to "GitHub Actions"
+Look for "Quarto" in the suggested workflows
+Option 2: Build to root directory
+
+_quarto.yml - Build to root directory
+Code 
+Then set GitHub Pages to deploy from root:
+
+Go to Settings → Pages
+Set Source to "Deploy from a branch"
+Set Branch to "main"
+Set Folder to "/ (root)"
+I recommend Option 1 because it's the cleanest approach for Quarto websites.
+Can you tell me what folders appear when you run quarto render locally? This will help us determine the best path forward.
+
+
+
+
+if i go back to the docs subdirectory what is the best text for the .gitignore?
+
+Good choice! Using the docs subdirectory is a clean approach. Here's the best .gitignore for a Quarto website that builds to docs:
+
+
+.gitignore for Quarto with docs output
+Code 
+Key points about this .gitignore:
+Commits the docs/ folder - This is where your built website lives and what GitHub Pages will serve
+**Ignores `_
+
+
+
+
+# Quarto render outputs (we want to commit docs/ but ignore other common outputs)
+_site/
+*.html
+site_libs/
+
+# Keep the docs directory (this is where we want our site)
+# But ignore any temp files in docs
+docs/.quarto/
+
+# R/RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Node modules (if using any JS tools)
+node_modules/
+
+# Quarto cache and temp files
+.quarto/
 /.quarto/
