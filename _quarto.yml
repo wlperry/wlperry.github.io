@@ -4,10 +4,9 @@ project:
 
 website:
   title: "Bill Perry's Website"
-  # site-url belongs here, under website
   site-url: "https://wlperry.github.io/ecostats_2026/"
   navbar:
-    background: "#70131d"
+    background: "#70131d" # This handles the dark red background safely!
     left:
       - text: "Bill's Homepage"
         href: "https://wlperry.github.io/index.html"
@@ -25,6 +24,7 @@ website:
 
 format:
   html:
+    theme: cosmo           # Restores the layout grid for the navigation
     css: styles.css        
     toc: true              
     toc-title: "On this page"
