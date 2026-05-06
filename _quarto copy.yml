@@ -4,10 +4,7 @@ project:
 
 website:
   title: "Bill Perry's Website"
-  # site-url belongs here, under website
-  site-url: "https://wlperry.github.io/ecostats_2026/"
   navbar:
-    background: "#70131d"
     left:
       - text: "Bill's Homepage"
         href: "https://wlperry.github.io/index.html"
@@ -18,10 +15,13 @@ website:
     right:
       - icon: github
         href: https://github.com/wlperry
+        aria-label: GitHub
       - icon: envelope
         href: mailto:wlperry@d.umn.edu
+        aria-label: Email
       - icon: mortarboard
         href: https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en
+        aria-label: Google Scholar
 
 format:
   html:
