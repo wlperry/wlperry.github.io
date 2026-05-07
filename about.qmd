@@ -1,24 +1,56 @@
 ---
-title: "About me"
-author: "Bill Perry"
+title: "About the Instructor"
+execute:
+  freeze: auto
+  cache: true
+  echo: true
 format: 
   html:
-    toc: true
-    toc-depth: 3
-editor: visual
+    toc: false
+about:
+  template: marquee
+  image: images/profile.jpg  # Add your profile photo to the images folder
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/wlperry
+    - icon: envelope-heart
+      text: Email
+      href: mailto:wlperry@d.umn.edu
+    - icon: globe
+      text: Personal Website
+      href: https://wlperry.github.io/index.html
 ---
 
-#### I am an aquatic ecologist working on both chemistry and biology of frewshwaters.
+## Bill Perry
 
-#### If you are interested in looking at my publications - they can be found on Research Gate [**(Here)**](https://www.researchgate.net/profile/William_Perry11/contributions) or on google scholar [**(Here)**](https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en)
-
-------------------------------------------------------------------------
-
-**Contact Infoformation**\
-Bill Perry\
 Department of Biology\
-Illinois State University\
-Campus Box 4120
+University of Minnesota Duluth
 
-309-438-8160\
-wlperry and the rest is ilstu dot edu
+I am a professor specializing in aquatic biology, biogeochemistry, invasion biology, and biostatistics and data analysis. My research focuses on statistical methods for aquatic ecology but am open to any data and science. I am particularily adept at working wtih high frequency data from field monitors.
+
+## Research Interests
+
+- Aquatic Ecology - lakes and streams
+- Invasion Biology
+- Environmental Monitoring
+- Statistical methods for ecological data
+- Data visualization
+
+## Teaching Philosophy
+
+My goal is to make statistics accessible and relevant by doing code and data collection in the classroom. The hands-on approach to learning, using real-world data and practical examples to illustrate statistical concepts is essential and actively doing the work. I use of modern tools like R and the tidyverse to prepare students for careers in biological research.
+
+## Education
+
+- PhD in Statistics, University of Notre Dame
+- MS in Biology, University of Cincinnati
+- BS in Biology, University of Cincinnati
+
+## Contact Information
+
+Feel free to contact me with any questions about the course or research opportunities:
+
+- **Email**: [wlperry\@d.umn.edu](mailto:wlperry@d.umn.edu)
+- **Office**: TBD
+- **Office Hours**: by appointment

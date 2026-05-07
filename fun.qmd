@@ -1,11 +1,16 @@
 ---
-title: "Fun me"
-author: "Bill Perry"
+title: "Fun Stuff"
 format: 
   html:
-    toc: true
+    toc: false
     toc-depth: 3
-editor: visual
+about:
+  template: marquee
+  links:
+    - icon: github
+      href: https://github.com/wlperry
+    - icon: envelope-heart-fill
+      href: mailto:wlperry@d.umn.edu
 ---
 
 ## This will be fun stuff eventually

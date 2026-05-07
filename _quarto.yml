@@ -4,27 +4,46 @@ project:
 
 website:
   title: "Bill Perry's Website"
-  site-url: "https://wlperry.github.io/ecostats_2026/"
-  navbar:
-    background: "#70131d"
-    left:
-      - text: "Bill's Homepage"
-        href: "https://wlperry.github.io/index.html"
-      - text: "Biostats Homepage"
-        href: "https://wlperry.github.io/ecostats_2026/" # <-- FIXED LINK HERE
-      - text: "About"
-        href: about.qmd
-    right:
+  site-url: "https://wlperry.github.io"
+  search: true
+
+  sidebar:
+    logo: "images/course-hex.png"
+    style: "docked"
+    collapse-level: 1
+    contents:
+      - section: "About Me"
+        contents:
+          - href: index.qmd
+            text: "Homepage"
+          - href: projects.qmd
+            text: "Projects"
+          - href: about.qmd
+            text: "About me"
+          - href: fun.qmd
+            text: "Fun Stuff"
+            
+      # This is where you link out to your separate course websites
+      - section: "My Courses"
+        contents:
+          - href: https://wlperry.github.io/ecostats_2026/index.html
+            text: "Biostatistics (EcoStats 2026)"
+          # You can easily add the 2 new class links right here later!
+           
+  open-graph: true
+
+  page-footer:
+    left: "© 2026 UMD Perry"
+    right: 
       - icon: github
         href: https://github.com/wlperry
-      - icon: envelope
+      - icon: envelope-heart-fill
         href: mailto:wlperry@d.umn.edu
-      - icon: mortarboard
-        href: https://scholar.google.com/citations?user=YVjQpRsAAAAJ&hl=en
 
 format:
   html:
-    theme: flatly
-    css: styles.css        
-    toc: true              
-    toc-title: "On this page"
+    theme:
+      light: css/theme.scss
+      dark: css/theme-dark.scss
+    css: styles.css
+    toc: true
