@@ -4,72 +4,59 @@
 /* Base styling for the body  */
 /* -------------------------- */
 body {
-  background-color: #FFFFFF;  /* Light grey background for overall readability */
-  color: #343a40;             /* Dark grey text for body content */
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;  /* Preferred fonts with fallbacks */
-  line-height: 1.6;           /* Improve text readability with adequate line spacing */
-  margin: 0;                  /* Remove default browser margins */
-  padding: 1rem;              /* Add padding around the main content */
-}
-
-/* ------------------------- */
-/* Header styling            */
-/* ------------------------- */
-header {
-  background-color: #FFFFFF;  /* Set header background to purple */
-  color: #343a40;             /* Set header text to purple (Note: same as background; consider adjusting for contrast) */
-  padding: 1rem;              /* Add space inside the header */
-}
-
-
-/* Header links styling */
-header a {
-  color: #F4CD54;             /* Use purple for links within the header */
-}
-
-header a:hover {
-  color: #FFFF09;             /* Change link color on hover for better visual feedback */
+  background-color: #FFFFFF; 
+  color: #343a40;             
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.6;           
+  /* Removed 'padding' and 'margin' overrides so Quarto's layout functions normally */
 }
 
 /* ------------------------- */
 /* Heading elements styling  */
 /* ------------------------- */
 h1, h2, h3 {
-  color: #212529;             /* Use a dark grey for headings */
-  margin-top: 1.5rem;         /* Add space above headings */
+  color: #212529;             
+  margin-top: 1.5rem;         
 }
 
 /* ------------------------- */
 /* General link styling      */
 /* ------------------------- */
 a {
-  color: #007bff;             /* Default blue color for links */
-  text-decoration: none;      /* Remove underlines from links */
+  text-decoration: none;      
 }
 
 a:hover {
-  text-decoration: underline; /* Underline links on hover for clarity */
+  text-decoration: underline; 
 }
 
 /* ------------------------- */
 /* Image responsiveness      */
 /* ------------------------- */
 img {
-  max-width: 100%;            /* Ensure images scale within their container */
-  height: auto;               /* Maintain the image's aspect ratio */
-  border-radius: 5px;         /* Slightly round the corners of images */
+  max-width: 100%;            
+  height: auto;               
+  border-radius: 5px;         
 }
 
-/* --- Safe Navbar Styling --- */
-/* We let Quarto handle the structural background. Only change text/icon colors! */
+/* ------------------------- */
+/* Navbar Styling            */
+/* ------------------------- */
 
-/* Title / Brand Link and Navigation Links */
+/* 1. Force the Main Bar Background to Dark Red */
+.navbar, 
+header {
+  background-color: #70131d !important;
+  border-bottom: none !important;
+}
+
+/* 2. Title / Brand Link and Navigation Links */
 .navbar-brand,
 .navbar-nav .nav-link {
   color: #F4CD54 !important;
 }
 
-/* Hover States (Bright Yellow) */
+/* 3. Hover States (Bright Yellow) */
 .navbar-brand:hover,
 .navbar-brand:focus,
 .navbar-nav .nav-link:hover, 
@@ -77,7 +64,7 @@ img {
   color: #FFFF09 !important;
 }
 
-/* Icons (GitHub, Email, etc.) */
+/* 4. Icons (GitHub, Email, etc.) */
 .navbar-nav .bi {
   color: #F4CD54 !important;
 }
@@ -90,9 +77,9 @@ img {
 /* Footer styling            */
 /* ------------------------- */
 footer {
-  text-align: center;         /* Center-align footer text */
-  margin-top: 2rem;           /* Add space above the footer */
-  padding: 1rem;              /* Add padding inside the footer */
-  background-color: #343a40;  /* Dark grey background for the footer */
-  color: white;               /* White text for better contrast in the footer */
+  text-align: center;         
+  margin-top: 2rem;           
+  padding: 1rem;              
+  background-color: #f8f9fa;  
+  border-top: 1px solid #dee2e6;
 }
