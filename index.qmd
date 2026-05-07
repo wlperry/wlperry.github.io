@@ -6,9 +6,10 @@ format:
 editor: visual
 ---
 
-# Welcome to my webpage!
+# University of Minnesota - Duluth
 
-![](images/perry.jpg){.wrap-right fig-align="right" width="255"}
+a great place to work
+![](images/perry.jpg){style="float: right; margin-left: 15px; margin-bottom: 15px;" width="255"}
 
 ::: {.announcement-box .opportunities}
 <h3>🎓 Graduate Opportunities Available at UM-Duluth!</h3>
