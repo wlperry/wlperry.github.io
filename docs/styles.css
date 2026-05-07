@@ -1,8 +1,13 @@
-/* css styles */
-/* Override default inline code highlighting */
+/* Override default inline code highlighting for Light Mode */
 code {
-  color: #212529 !important;
-  background-color: #f1f3f5 !important;
+  color: #212529;
+  background-color: #f1f3f5;
   padding: 2px 4px;
   border-radius: 3px;
+}
+
+/* Override inline code highlighting for Dark Mode */
+html[data-bs-theme="dark"] code {
+  color: #e9ecef;
+  background-color: #343a40;
 }
