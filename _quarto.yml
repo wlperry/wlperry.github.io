@@ -12,7 +12,7 @@ website:
     style: "docked"
     collapse-level: 1
     contents:
-      - section: "About Me"
+      - section: "My Homepage"
         contents:
           - href: index.qmd
             text: "Homepage"
