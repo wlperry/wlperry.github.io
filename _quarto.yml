@@ -6,7 +6,7 @@ website:
   title: "Bill Perry's Website"
   site-url: "https://wlperry.github.io/ecostats_2026/"
   navbar:
-    background: "#70131d" # This handles the dark red background safely!
+    background: "#70131d"
     left:
       - text: "Bill's Homepage"
         href: "https://wlperry.github.io/index.html"
@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    theme: cosmo           # Restores the layout grid for the navigation
+    theme: flatly          # Restored: This fixes the layout crunch!
     css: styles.css        
     toc: true              
     toc-title: "On this page"
