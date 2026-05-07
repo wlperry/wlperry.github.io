@@ -11,7 +11,7 @@ website:
       - text: "Bill's Homepage"
         href: "https://wlperry.github.io/index.html"
       - text: "Biostats Homepage"
-        href: "https://wlperry.github.io/umd_biostats/"
+        href: "https://wlperry.github.io/ecostats_2026/" # <-- FIXED LINK HERE
       - text: "About"
         href: about.qmd
     right:
@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    theme: flatly          # Restored: This fixes the layout crunch!
+    theme: flatly
     css: styles.css        
     toc: true              
     toc-title: "On this page"

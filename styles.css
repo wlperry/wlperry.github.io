@@ -1,17 +1,5 @@
-/* --- Fix the White Gap at the Top --- */
-body {
-  margin: 0 !important;
-  padding-top: 0 !important;
-}
-
-header, #quarto-header {
-  background-color: #70131d !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border-bottom: none !important;
-}
-
 /* --- Exact Biostats Navbar Styling --- */
+
 .navbar {
   background-color: #70131d !important;  
   color: #F4CD54;             
