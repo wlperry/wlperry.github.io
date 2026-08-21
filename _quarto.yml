@@ -27,7 +27,9 @@ website:
       - section: "My Courses"
         contents:
           - href: https://wlperry.github.io/ecostats_2026/index.html
-            text: "Biostatistics (EcoStats 2026)"
+            text: "Ecological Statistics"
+          - href: https://wlperry.github.io/umd_datasci/index.html
+            text: "Data Science"
           # You can easily add the 2 new class links right here later!
            
   open-graph: true
